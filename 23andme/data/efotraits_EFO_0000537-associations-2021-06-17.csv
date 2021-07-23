@@ -1,0 +1,734 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs12134151-<b>?</b>,"9 x 10-6",,'-,'-,'-,'-,LINC02607,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,1:95736887
+rs11883667-<b>?</b>,"2 x 10-6",,'-,'-,'-,'-,AC009505.1,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,2:105933971
+rs2234671-<b>?</b>,"5 x 10-7",,'-,'-,'-,'-,CXCR1,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,2:218164385
+rs55652507-<b>?</b>,"3 x 10-7",,'-,'-,'-,'-,"AC008725.1, RNA5SP199","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,5:155502654
+rs185197019-<b>?</b>,"6 x 10-6",,'-,'-,'-,'-,"KCNB2, AC011131.1","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,8:72537054
+rs79060400-<b>?</b>,"2 x 10-6",,'-,'-,'-,'-,OR9G1,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,11:56701218
+rs35342385-<b>?</b>,"5 x 10-6",,'-,'-,'-,'-,"AP003038.1, AP001317.1","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,11:98135040
+rs200288366-<b>?</b>,"6 x 10-7",,'-,'-,'-,'-,"AC018630.2, TAS2R14, PRH1, TAS2R45","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,12:11092003
+rs78550087-<b>?</b>,"2 x 10-6",,'-,'-,'-,'-,"AC091214.1, AC089998.1","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,12:82669637
+rs9578751-<b>?</b>,"1 x 10-7",,'-,'-,'-,'-,"TPTE2P6, PARP4","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,13:24500352
+rs1007175-<b>?</b>,"1 x 10-6",,'-,'-,'-,'-,TULP3P1,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,13:96960285
+rs4899973-<b>?</b>,"1 x 10-6",,'-,'-,'-,'-,FOXN3,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,14:89272011
+rs4778107-<b>?</b>,"4 x 10-6",,'-,'-,'-,'-,"AC108457.1, RGMA","Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,15:93130510
+rs12945036-<b>?</b>,"1 x 10-6",,'-,'-,'-,'-,RPH3AL,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,17:230930
+rs79642714-<b>?</b>,"2 x 10-7",,NR,'-,'-,'-,FAM8A1,"Idiopathic intracranial hypertension","pseudotumor cerebri",GCST005688,6:17605974
+rs71427857-<b>A</b>,"8 x 10-9",,0.042,5.759,'-,'-,"DNAJC10, PDE1A","Pulmonary arterial hypertension","pulmonary arterial hypertension",GCST004947,2:182633113
+rs10946177-<b>?</b>,"4 x 10-6",,'-,'-,"0.099 unit increase",[NR],RPS6KA2,"Café-au-lait macule number in neurofibromatosis type1","Neurofibromatosis type 1, Cafe-au-lait spot",GCST011464,6:166605233
+rs1951646-<b>?</b>,"8 x 10-6",,'-,'-,"0.073 unit increase",[NR],TTC6,"Café-au-lait macule number in neurofibromatosis type1","Neurofibromatosis type 1, Cafe-au-lait spot",GCST011464,14:37677543
+rs11249906-<b>?</b>,"6 x 10-8",,NR,'-,'-,'-,AC022784.1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,8:9185097
+rs11998678-<b>?</b>,"6 x 10-8",,NR,'-,'-,'-,"AC107918.6, DEFB136","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,8:11972641
+rs7115856-<b>?</b>,"7 x 10-8",,NR,'-,'-,'-,"AC068205.2, HSD17B12","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,11:43747737
+rs142076278-<b>?</b>,"1 x 10-7",,NR,'-,'-,'-,"LINC01571, C16orf97","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,16:51794418
+rs2867695-<b>?</b>,"1 x 10-7",,NR,'-,'-,'-,"RPSAP39, ANTXR2","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,4:80152066
+rs1242765-<b>?</b>,"1 x 10-7",,NR,'-,'-,'-,UNC79,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,14:93466459
+rs2251473-<b>?</b>,"1 x 10-7",,NR,'-,'-,'-,"MTMR9, AF131216.1","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,8:11319617
+rs2341599-<b>?</b>,"1 x 10-7",,NR,'-,'-,'-,AC107208.1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,4:155512156
+rs8184986-<b>?</b>,"2 x 10-7",,NR,'-,'-,'-,CHEK2,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,22:28731236
+rs2304615-<b>?</b>,"4 x 10-8",,NR,'-,'-,'-,REXO1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,19:1826113
+rs752520449-<b>?</b>,"5 x 10-8",,NR,'-,'-,'-,AC090630.1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,12:41873692
+rs10838835-<b>?</b>,"1 x 10-8",,NR,'-,'-,'-,"OR4B1, OR4B2P","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,11:48224905
+rs7763581-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,"GMDS, FOXC1","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,6:1614132
+rs73094438-<b>?</b>,"2 x 10-8",,NR,'-,'-,'-,"HERPUD2, AC018647.3","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,7:35626068
+rs2814949-<b>?</b>,"9 x 10-9",,NR,'-,'-,'-,ILRUN,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,6:34688945
+rs76702537-<b>?</b>,"1 x 10-8",,NR,'-,'-,'-,"LINC02468, AC129102.1","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,12:20215387
+rs9932220-<b>?</b>,"2 x 10-8",,NR,'-,'-,'-,"RN7SKP142, LINC01571","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,16:51724205
+rs10828266-<b>?</b>,"1 x 10-8",,NR,'-,'-,'-,DNAJC1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,10:21809772
+rs2725371-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,PURG,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,8:30996517
+rs9683944-<b>?</b>,"4 x 10-8",,NR,'-,'-,'-,"PCDH18, RPS23P2","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,4:137512008
+rs2282143-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,SLC22A1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,6:160136611
+rs4678408-<b>?</b>,"9 x 10-9",,NR,'-,'-,'-,"NME9, MRAS","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,3:138334345
+rs10756197-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,"AL451129.1, AKAP8P1","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,9:11178030
+rs433750-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,"AC094104.2, AC010230.1","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,5:114760905
+rs11657730-<b>?</b>,"2 x 10-8",,NR,'-,'-,'-,BAHCC1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,17:81398689
+rs10067451-<b>?</b>,"2 x 10-8",,NR,'-,'-,'-,LINC00461,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,5:88646688
+rs35275911-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,"AC211433.1, GTF2I","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,7:74693917
+rs13062241-<b>?</b>,"5 x 10-9",,NR,'-,'-,'-,FGD5,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,3:14881723
+rs2046301-<b>?</b>,"3 x 10-8",,NR,'-,'-,'-,"OR4C4P, OR4C3","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,11:48341825
+rs2517521-<b>?</b>,"4 x 10-8",,NR,'-,'-,'-,HCG22,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,6:31059559
+rs28724242-<b>?</b>,"4 x 10-8",,NR,'-,'-,'-,HLA-DQB1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,6:32661554
+rs9603420-<b>?</b>,"2 x 10-8",,NR,'-,'-,'-,"AL161616.1, RXFP2","Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,13:31642770
+rs11857726-<b>?</b>,"5 x 10-8",,NR,'-,'-,'-,CHP1,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,15:41238161
+rs12902197-<b>?</b>,"6 x 10-8",,NR,'-,'-,'-,MIR4713HG,"Essential hypertension (time to event)","age at diagnosis, primary hypertension",GCST010774,15:51139461
+rs11749255-<b>A</b>,"3 x 10-7",,0.69,1.098901,'-,[NR],"HIGD1AP3, MSX2","Resistant hypertension","treatment-resistant hypertension",GCST007135,5:174642665
+rs12228810-<b>C</b>,"9 x 10-6",,0.88,1.0869565,'-,[NR],"AC122688.1, BRI3BP","Resistant hypertension","treatment-resistant hypertension",GCST007135,12:125055560
+rs16934621-<b>A</b>,"5 x 10-6",,0.08,1.43,'-,[NR],BNC2,"Resistant hypertension","treatment-resistant hypertension",GCST007135,9:16414758
+rs3766160-<b>A</b>,"1 x 10-6",,0.74,1.0869565,'-,[NR],CELA2B,"Resistant hypertension","treatment-resistant hypertension",GCST007135,1:15482377
+rs11749255-<b>A</b>,"4 x 10-8",,'-,1.6,'-,[1.30-1.90],"HIGD1AP3, MSX2","Resistant hypertension","treatment-resistant hypertension",GCST007136,5:174642665
+rs6487504-<b>A</b>,"2 x 10-7",,'-,1.81,'-,[1.40-2.30],"RN7SKP262, LMNTD1","Resistant hypertension","treatment-resistant hypertension",GCST007136,12:25654374
+rs324498-<b>A</b>,"1 x 10-6",,'-,1.62,'-,[1.30-2.0],PTPRD,"Resistant hypertension","treatment-resistant hypertension",GCST007136,9:9059545
+rs6453204-<b>?</b>,"6 x 10-8",,NR,3.3,'-,[NR],SV2C,"Response to chemotherapy in breast cancer (hypertension) (bevacizumab)","response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002567,5:76143375
+rs130318-<b>?</b>,"4 x 10-6",,NR,1.72,'-,[NR],PARVB,"Response to chemotherapy in breast cancer (hypertension) (bevacizumab)","response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002567,22:44080184
+rs1943466-<b>?</b>,"1 x 10-6",,NR,1.82,'-,[NR],GRAMD1B,"Response to chemotherapy in breast cancer (hypertension) (bevacizumab)","response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002567,11:123393934
+rs6453204-<b>?</b>,"5 x 10-8",,NR,2.2,'-,[NR],SV2C,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,5:76143375
+rs130318-<b>?</b>,"4 x 10-7",,NR,1.7,'-,[NR],PARVB,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, chemotherapy-induced hypertension, breast carcinoma",GCST002566,22:44080184
+rs1943466-<b>?</b>,"6 x 10-7",,NR,1.69,'-,[NR],GRAMD1B,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,11:123393934
+rs11685222-<b>?</b>,"4 x 10-6",,NR,1.98,'-,[NR],"PTPN4, RPL27P7","Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,2:119990995
+rs12467348-<b>?</b>,"9 x 10-6",,NR,2.05,'-,[NR],KCNS3,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,2:18106253
+rs3773651-<b>?</b>,"7 x 10-6",,NR,2.15,'-,[NR],TGFBR2,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,3:30677040
+rs2731620-<b>?</b>,"7 x 10-6",,NR,1.59,'-,[NR],"RNU1-146P, AC024901.1","Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,12:19774866
+rs6878584-<b>?</b>,"7 x 10-6",,NR,2.27,'-,[NR],"NSG2, AC025752.1","Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,5:174280232
+rs2496589-<b>?</b>,"5 x 10-6",,NR,1.7,'-,[NR],"AL031320.1, ADAT2","Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,6:143412439
+rs1962073-<b>?</b>,"2 x 10-6",,NR,1.69,'-,[NR],MSRA,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,8:10403043
+rs11786541-<b>?</b>,"2 x 10-6",,NR,1.65,'-,[NR],"AC034111.2, LINC00599","Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,8:9932039
+rs11257188-<b>?</b>,"9 x 10-6",,NR,2.19,'-,[NR],PFKFB3,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,10:6195193
+rs479825-<b>?</b>,"6 x 10-6",,NR,1.64,'-,[NR],MAML2,"Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)","cumulative dose response to bevacizumab, breast carcinoma, chemotherapy-induced hypertension",GCST002566,11:96198321
+rs2856830-<b>C</b>,"8 x 10-20",,0.12,1.56,'-,[1.42-1.71],HLA-DPA1,"Pulmonary arterial hypertension","pulmonary arterial hypertension",GCST007228,6:33073957
+rs13266183-<b>C</b>,"2 x 10-12",,0.73,1.36,'-,[1.25-1.48],AC027250.1,"Pulmonary arterial hypertension","pulmonary arterial hypertension",GCST007228,8:54355052
+rs10103692-<b>G</b>,"5 x 10-15",,0.9,1.8,'-,[1.55-2.08],"RNU105C, AC027250.1","Pulmonary arterial hypertension","pulmonary arterial hypertension",GCST007228,8:54345567
+rs1327235-<b>?</b>,"3 x 10-12",,NR,'-,"0.0426419 unit decrease",NR,AL050403.2,Hypertension,hypertension,GCST009685,20:10988382
+rs16982520-<b>?</b>,"6 x 10-15",,NR,'-,"0.0736275 unit decrease",NR,ZNF831,Hypertension,hypertension,GCST009685,20:59183665
+rs56352102-<b>?</b>,"3 x 10-12",,NR,'-,"0.0550159 unit decrease",NR,SBF2,Hypertension,hypertension,GCST009685,11:10247046
+rs17367504-<b>?</b>,"4 x 10-34",,NR,'-,"0.1006982 unit increase",NR,MTHFR,Hypertension,hypertension,GCST009685,1:11802721
+rs34550591-<b>?</b>,"2 x 10-11",,NR,'-,"0.09427968 unit increase",NR,AL021155.4,Hypertension,hypertension,GCST009685,1:11913466
+rs2293579-<b>?</b>,"5 x 10-13",,NR,'-,"0.0453465 unit decrease",NR,PSMC3,Hypertension,hypertension,GCST009685,11:47419207
+rs2675149-<b>?</b>,"2 x 10-12",,NR,'-,"0.04366255 unit increase",NR,AC016766.1,Hypertension,hypertension,GCST009685,2:164093946
+rs1898841-<b>?</b>,"1 x 10-16",,NR,'-,"0.05697489 unit increase",NR,"AC016766.1, PRPS1P1",Hypertension,hypertension,GCST009685,2:164213697
+rs16998073-<b>?</b>,"2 x 10-30",,NR,'-,"0.0773208 unit decrease",NR,"PRDM8, FGF5",Hypertension,hypertension,GCST009685,4:80263187
+rs34592089-<b>?</b>,"1 x 10-9",,NR,'-,"0.07719143 unit increase",NR,"BANK1, AP002075.1",Hypertension,hypertension,GCST009685,4:102005766
+rs7924431-<b>?</b>,"7 x 10-9",,NR,'-,"0.05045032 unit increase",NR,"FOLH1, AC118942.1",Hypertension,hypertension,GCST009685,11:49245594
+rs4690974-<b>?</b>,"2 x 10-9",,NR,'-,"0.0365988 unit decrease",NR,"AC107208.1, MTND1P22",Hypertension,hypertension,GCST009685,4:155472489
+rs10895001-<b>?</b>,"5 x 10-22",,NR,'-,"0.06575096 unit increase",NR,"PPIAP43, RN7SL222P",Hypertension,hypertension,GCST009685,11:100662290
+rs1173727-<b>?</b>,"4 x 10-24",,NR,'-,"0.0632106 unit increase",NR,"AC025459.1, NPR3",Hypertension,hypertension,GCST009685,5:32830415
+rs2524095-<b>?</b>,"1 x 10-9",,NR,'-,"0.03838402 unit increase",NR,"HLA-B, LINC02571",Hypertension,hypertension,GCST009685,6:31298340
+rs2596473-<b>?</b>,"8 x 10-10",,NR,'-,"0.0382034 unit decrease",NR,"AL645933.5, AL645933.2",Hypertension,hypertension,GCST009685,6:31463022
+rs805293-<b>?</b>,"3 x 10-12",,NR,'-,"0.0433015 unit decrease",NR,"LY6G6C, MPIG6B",Hypertension,hypertension,GCST009685,6:31720741
+rs6495127-<b>?</b>,"6 x 10-10",,NR,'-,"0.0419321 unit decrease",NR,"FAM219B, MPI",Hypertension,hypertension,GCST009685,15:74902149
+rs7497304-<b>?</b>,"2 x 10-18",,NR,'-,"0.0572501 unit decrease",NR,FES,Hypertension,hypertension,GCST009685,15:90885946
+rs4888372-<b>?</b>,"5 x 10-9",,NR,'-,"0.03632925 unit increase",NR,"RNU6-758P, BCAR1",Hypertension,hypertension,GCST009685,16:75279587
+rs12258967-<b>?</b>,"1 x 10-21",,NR,'-,"0.06391272 unit increase",NR,CACNB2,Hypertension,hypertension,GCST009685,10:18439030
+rs1530440-<b>?</b>,"3 x 10-12",,NR,'-,"0.05447183 unit increase",NR,CABCOCO1,Hypertension,hypertension,GCST009685,10:61764833
+rs2274224-<b>?</b>,"5 x 10-14",,NR,'-,"0.04650402 unit increase",NR,"PLCE1, PLCE1-AS1",Hypertension,hypertension,GCST009685,10:94279840
+rs34328549-<b>?</b>,"5 x 10-15",,NR,'-,"0.07281571 unit increase",NR,INSR,Hypertension,hypertension,GCST009685,19:7253173
+rs12413409-<b>?</b>,"1 x 10-17",,NR,'-,"0.09777913 unit increase",NR,CNNM2,Hypertension,hypertension,GCST009685,10:102959339
+rs11191580-<b>?</b>,"3 x 10-20",,NR,'-,"0.10523462 unit increase",NR,NT5C2,Hypertension,hypertension,GCST009685,10:103146454
+rs2493292-<b>?</b>,"2 x 10-9",,NR,'-,"0.0535559 unit decrease",NR,PRDM16,Hypertension,hypertension,GCST009685,1:3412095
+rs1580004-<b>?</b>,"2 x 10-10",,NR,'-,"0.03915954 unit increase",NR,AMPD3,Hypertension,hypertension,GCST009685,11:10348873
+rs11039149-<b>?</b>,"8 x 10-12",,NR,'-,"0.0468791 unit decrease",NR,NR1H3,Hypertension,hypertension,GCST009685,11:47255124
+rs2586886-<b>?</b>,"4 x 10-9",,NR,'-,"0.037121 unit decrease",NR,KCNK3,Hypertension,hypertension,GCST009685,2:26709163
+rs7120548-<b>?</b>,"2 x 10-11",,NR,'-,"0.0448821 unit decrease",NR,MTCH2,Hypertension,hypertension,GCST009685,11:47641380
+rs1872167-<b>?</b>,"9 x 10-10",,NR,'-,"0.05387594 unit increase",NR,"AC023232.1, NUP160",Hypertension,hypertension,GCST009685,11:47879717
+rs3942852-<b>?</b>,"2 x 10-9",,NR,'-,"0.04496659 unit increase",NR,PTPRJ,Hypertension,hypertension,GCST009685,11:48093537
+rs16905753-<b>?</b>,"7 x 10-9",,NR,'-,"0.05041853 unit increase",NR,OR4X1,Hypertension,hypertension,GCST009685,11:48264354
+rs13107325-<b>?</b>,"5 x 10-12",,NR,'-,"0.07963385 unit increase",NR,SLC39A8,Hypertension,hypertension,GCST009685,4:102267552
+rs5016282-<b>?</b>,"3 x 10-9",,NR,'-,"0.05169951 unit increase",NR,GRM5,Hypertension,hypertension,GCST009685,11:89008492
+rs7715779-<b>?</b>,"1 x 10-18",,NR,'-,"0.05606038 unit increase",NR,NPR3,Hypertension,hypertension,GCST009685,5:32690093
+rs35473622-<b>?</b>,"6 x 10-16",,NR,'-,"0.05736285 unit increase",NR,ARHGAP42,Hypertension,hypertension,GCST009685,11:100821835
+rs2681492-<b>?</b>,"2 x 10-15",,NR,'-,"0.06472751 unit increase",NR,ATP2B1,Hypertension,hypertension,GCST009685,12:89619312
+rs10849937-<b>?</b>,"7 x 10-12",,NR,'-,"0.05191228 unit increase",NR,"CUX2, PHETA1",Hypertension,hypertension,GCST009685,12:111354623
+rs10774625-<b>?</b>,"2 x 10-13",,NR,'-,"0.0449492 unit decrease",NR,ATXN2,Hypertension,hypertension,GCST009685,12:111472415
+rs35085068-<b>?</b>,"4 x 10-9",,NR,'-,"0.036399 unit decrease",NR,AL132780.1,Hypertension,hypertension,GCST009685,14:22940700
+rs8036030-<b>?</b>,"8 x 10-11",,NR,'-,"0.041086 unit decrease",NR,SEMA7A,Hypertension,hypertension,GCST009685,15:74424268
+rs936226-<b>?</b>,"9 x 10-15",,NR,'-,"0.0544424 unit decrease",NR,"CSK, CYP1A2",Hypertension,hypertension,GCST009685,15:74776941
+rs3130482-<b>?</b>,"1 x 10-10",,NR,'-,"0.03993774 unit increase",NR,SLC44A4,Hypertension,hypertension,GCST009685,6:31872005
+rs11754682-<b>?</b>,"3 x 10-15",,NR,'-,"0.04883 unit decrease",NR,AL356534.1,Hypertension,hypertension,GCST009685,6:126856574
+rs6461992-<b>?</b>,"7 x 10-9",,NR,'-,"0.06762078 unit increase",NR,HOXA11,Hypertension,hypertension,GCST009685,7:27181212
+rs2392929-<b>?</b>,"2 x 10-17",,NR,'-,"0.0652155 unit decrease",NR,"AC004917.1, LINC02577",Hypertension,hypertension,GCST009685,7:106773623
+rs3744760-<b>?</b>,"1 x 10-18",,NR,'-,"0.0609742 unit decrease",NR,PLCD3,Hypertension,hypertension,GCST009685,17:45118614
+rs117470167-<b>?</b>,"2 x 10-9",,NR,'-,"0.09233599 unit increase",NR,"HOXB3, HOXB-AS3",Hypertension,hypertension,GCST009685,17:48589121
+rs1004467-<b>?</b>,"4 x 10-16",,NR,'-,"0.08905793 unit increase",NR,CYP17A1,Hypertension,hypertension,GCST009685,10:102834750
+rs167479-<b>?</b>,"8 x 10-16",,NR,'-,"0.04913276 unit increase",NR,RGL3,Hypertension,hypertension,GCST009685,19:11416089
+rs403814-<b>A</b>,"6 x 10-9",,NR,1.15,'-,[1.07-1.23],L3MBTL4,Hypertension,hypertension,GCST003613,18:6282594
+rs7554672-<b>?</b>,"2 x 10-6",,0.589,1.21,'-,'-,"AL445466.1, HLX",Hypertension,hypertension,GCST004143,1:221099816
+rs3800688-<b>G</b>,"4 x 10-6",,0.479,1.197,'-,'-,PODXL,Hypertension,hypertension,GCST004143,7:131507716
+rs11105368-<b>?</b>,"2 x 10-7",,0.624,1.23,'-,'-,ATP2B1,Hypertension,hypertension,GCST004143,12:89680664
+rs16998073-<b>T</b>,"8 x 10-25",,0.47,1.29,'-,[1.23-1.35],"PRDM8, FGF5",Hypertension,hypertension,GCST011141,4:80263187
+rs1458038-<b>T</b>,"3 x 10-22",,0.39,1.26,'-,[1.21-1.33],"FGF5, PRDM8",Hypertension,hypertension,GCST011141,4:80243569
+rs77768175-<b>G</b>,"6 x 10-16",,0.3722,0.77,'-,[0.72-0.82],HECTD4,Hypertension,hypertension,GCST011141,12:112298314
+rs671-<b>A</b>,"2 x 10-15",,0.33,0.77,'-,[0.72-0.82],ALDH2,Hypertension,hypertension,GCST011141,12:111803962
+rs11066280-<b>A</b>,"3 x 10-14",,0.2,0.78,'-,[0.74-0.84],HECTD4,Hypertension,hypertension,GCST011141,12:112379979
+rs2074356-<b>A</b>,"3 x 10-13",,0.32,0.78,'-,[0.73-0.83],HECTD4,Hypertension,hypertension,GCST011141,12:112207597
+rs36034102-<b>T</b>,"3 x 10-12",,0.35,1.22,'-,[1.15-1.29],FGF5,Hypertension,hypertension,GCST011141,4:80280894
+rs12229654-<b>G</b>,"4 x 10-25",,0.26,0.79,'-,[0.74-0.84],"LINC01405, CUX2",Hypertension,hypertension,GCST011141,12:110976657
+rs11066453-<b>G</b>,"7 x 10-11",,0.26,0.79,'-,[0.74-0.85],"OAS1, AC004551.1",Hypertension,hypertension,GCST011141,12:112927816
+rs2072134-<b>A</b>,"1 x 10-10",,0.26,0.78,'-,[0.73-0.84],"AC004551.1, OAS3",Hypertension,hypertension,GCST011141,12:112971371
+rs17249754-<b>A</b>,"4 x 10-9",,0.27,0.87,'-,[0.83-0.91],ATP2B1,Hypertension,hypertension,GCST011141,12:89666809
+rs12413409-<b>A</b>,"5 x 10-9",,0.39,0.85,'-,[0.81-0.9],CNNM2,Hypertension,hypertension,GCST011141,10:102959339
+rs16849273-<b>G</b>,"5 x 10-9",,0.39,0.87,'-,[0.83-0.91],AC016766.1,Hypertension,hypertension,GCST011141,2:164144678
+rs12231049-<b>G</b>,"8 x 10-9",,0.39,0.83,'-,[0.78-0.89],MYL2,Hypertension,hypertension,GCST011141,12:110911419
+rs732998-<b>C</b>,"8 x 10-9",,0.18,0.85,'-,[0.81-0.9],NT5C2,Hypertension,hypertension,GCST011141,10:103138144
+rs11191548-<b>C</b>,"1 x 10-8",,0.18,0.86,'-,[0.81-0.9],CNNM2,Hypertension,hypertension,GCST011141,10:103086421
+rs2681492-<b>C</b>,"2 x 10-8",,0.15,0.87,'-,[0.83-0.91],ATP2B1,Hypertension,hypertension,GCST011141,12:89619312
+rs3782889-<b>G</b>,"2 x 10-8",,0.17,0.84,'-,[0.79-0.89],MYL2,Hypertension,hypertension,GCST011141,12:110912851
+rs167479-<b>T</b>,"2 x 10-8",,0.16,0.88,'-,[0.84-0.92],RGL3,Hypertension,hypertension,GCST011141,19:11416089
+rs112735431-<b>A</b>,"3 x 10-8",,0.17,1.91,'-,[1.52-2.41],"RNF213, RNF213-AS1",Hypertension,hypertension,GCST011141,17:80385145
+rs1799998-<b>G</b>,"3 x 10-8",,0.18,0.87,'-,[0.83-0.91],"LY6E-DT, CYP11B2",Hypertension,hypertension,GCST011141,8:142918184
+rs11191580-<b>C</b>,"3 x 10-8",,0.13,0.86,'-,[0.82-0.91],NT5C2,Hypertension,hypertension,GCST011141,10:103146454
+rs7136259-<b>T</b>,"5 x 10-8",,0.12,0.88,'-,[0.84-0.92],ATP2B1,Hypertension,hypertension,GCST011141,12:89687411
+rs991316-<b>T</b>,"5 x 10-6",,0.45,1.62,'-,[NR],"ADH1B, ADH7",Hypertension,hypertension,GCST000447,4:99401288
+rs1550576-<b>?</b>,"3 x 10-6",,0.86,1.92,'-,[NR],"ALDH1A2, POLR2M",Hypertension,hypertension,GCST000447,15:57921216
+"rs13420028-<b>A</b> x rs10188442-<b>A</b>","1 x 10-10",,NR,'-,'-,'-,"GPR39 x GPR39","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,2:132430533|2:132431666
+"rs7735940-<b>A</b> x rs12522034-<b>C</b>","5 x 10-13",,NR,'-,'-,'-,"AC114277.1 - RNA5SP181 x AC114277.1 - RNA5SP181","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,5:36423829|5:36425491
+"rs3798440-<b>A</b> x rs9350602-<b>C</b>","3 x 10-10",,NR,'-,'-,'-,"MYO6 x MYO6","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,6:75846902|6:75850781
+"rs2469997-<b>G</b> x rs6469823-<b>C</b>","3 x 10-16",,NR,'-,'-,'-,"MIR548AZ - AC021733.4 x MIR548AZ - AC021733.4","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,8:119341027|8:119341744
+"rs7827545-<b>C</b> x rs1372662-<b>G</b>","2 x 10-44",,NR,'-,'-,'-,"ZFAT x ZFAT","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,8:134554324|8:134554803
+"rs7960483-<b>T</b> x rs10785581-<b>C</b>","1 x 10-7",,NR,'-,'-,'-,"AC079950.1 x AC079950.1","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,12:45531972|12:45537190
+"rs200752-<b>T</b> x rs200759-<b>A</b>","7 x 10-9",,NR,'-,'-,'-,"MACROD2 x MACROD2","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,20:15618886|20:15625776
+"rs6452524-<b>G</b> x rs6887846-<b>A</b>","2 x 10-7",,NR,'-,'-,'-,"XRCC4 x XRCC4","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,5:83137962|5:83140542
+"rs10496288-<b>G</b> x rs10496289-<b>C</b>","2 x 10-9",,NR,'-,'-,'-,"AC098817.1 - AC138623.1 x AC098817.1 - AC138623.1","Hypertension (SNP x SNP interaction)",hypertension,GCST001085,2:83065441|2:83066256
+rs61734696-<b>G</b>,"1 x 10-7",,0.988,1.8518518,'-,'-,"ANP32C, MARCHF1",Hypertension,hypertension,GCST010477,4:164197303
+rs200787930-<b>C</b>,"3 x 10-7",,0.988,1.8181818,'-,'-,PLCB2,Hypertension,hypertension,GCST010477,15:40289298
+rs146092501-<b>C</b>,"4 x 10-7",,0.988,1.8181818,'-,'-,COL6A3,Hypertension,hypertension,GCST010477,2:237371861
+rs200982668-<b>G</b>,"4 x 10-7",,0.987,1.7857143,'-,'-,COL6A5,Hypertension,hypertension,GCST010477,3:130470894
+rs139537100-<b>C</b>,"5 x 10-7",,0.988,1.7857143,'-,'-,"MKNK1, MOB3C",Hypertension,hypertension,GCST010477,1:46615006
+rs199921354-<b>C</b>,"5 x 10-7",,0.988,1.8181818,'-,'-,"VPS33B, AC068831.8",Hypertension,hypertension,GCST010477,15:91013841
+rs2515920-<b>T</b>,"5 x 10-7",,0.827,1.2345679,'-,'-,"UQCRHP1, NCR3",Hypertension,hypertension,GCST010477,6:31594838
+rs115287176-<b>G</b>,"5 x 10-7",,0.988,1.8181818,'-,'-,TMOD4,Hypertension,hypertension,GCST010477,1:151170961
+rs188378669-<b>G</b>,"7 x 10-7",,0.988,1.7857143,'-,'-,CXCL8,Hypertension,hypertension,GCST010477,4:73741568
+rs769177-<b>G</b>,"1 x 10-6",,0.8280000000000001,1.2345679,'-,'-,"TNF, LTB",Hypertension,hypertension,GCST010477,6:31579834
+rs2011738-<b>G</b>,"6 x 10-6",(EA),NR,'-,"1.34 unit increase",[0.71-1.97],"AC026369.3, IQSEC3","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,12:110822
+rs12762955-<b>C</b>,"8 x 10-6",(EA),NR,'-,"1.17 unit decrease",[0.62-1.72],IDI2-AS1,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,10:1032842
+rs13107740-<b>G</b>,"5 x 10-6",(AA),NR,'-,"1.51 unit decrease",[0.78-2.24],"PPP3CA, EMCN","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,4:100885375
+rs790123-<b>T</b>,"6 x 10-6",(AA),NR,'-,"1.07 unit increase",[0.58-1.56],"EIF4BP8, PARP14","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,3:122670146
+rs13075436-<b>C</b>,"6 x 10-6",(AA),NR,'-,"1.3 unit decrease",[0.71-1.89],"RNU6-1047P, AC133681.1","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,3:127242305
+rs3913363-<b>T</b>,"4 x 10-7",(AA),NR,'-,"1.3 unit increase",[0.75-1.85],TMEM212,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,3:171936113
+rs4663476-<b>G</b>,"8 x 10-6",(AA),NR,'-,"1.23 unit decrease",[0.66-1.80],LINC01173,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,2:234692420
+rs2074409-<b>T</b>,"2 x 10-6",(EA),NR,'-,"1.2 unit increase",[0.67-1.73],SYNRG,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,17:37538240
+rs11020821-<b>C</b>,"9 x 10-7",(EA),NR,'-,"1.4 unit increase",[0.79-2.01],"PIWIL4, C11orf97","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,11:94538497
+rs11753937-<b>T</b>,"6 x 10-6",(EA),NR,'-,"1.12 unit increase",[0.61-1.63],EYA4,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,6:133342451
+rs2166775-<b>G</b>,"3 x 10-6",(EA),NR,'-,"0.99 unit increase",[0.54-1.44],SLC9A9,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,3:143785691
+rs659580-<b>T</b>,"1 x 10-6",(EA),NR,'-,"1.28 unit increase",[0.71-1.85],PRRX1,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,1:170664755
+rs16838131-<b>A</b>,"2 x 10-6",(AA),NR,'-,"2.26 unit decrease",[1.01-3.51],"C4orf50, JAKMIP1","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,4:6056770
+rs4265793-<b>T</b>,"6 x 10-6",(AA),NR,'-,"1.22 unit decrease",[0.65-1.79],TMC7,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,16:19017227
+rs2992257-<b>T</b>,"3 x 10-7",(AA),NR,'-,"8.63 unit increase",[-2.13040-19.39040],APBB1IP,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,10:26445658
+rs6871087-<b>G</b>,"1 x 10-6",(AA),NR,'-,"1.4 unit increase",[0.79-2.01],"AC026433.1, RPL19P11","Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,5:30899410
+rs37439-<b>A</b>,"9 x 10-6",(AA),NR,'-,"1 unit decrease",[0.53-1.47],DNAJC21,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,5:34951045
+rs4719147-<b>T</b>,"2 x 10-6",(AA),NR,'-,"1.13 unit increase",[0.64-1.62],GALNT17,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,7:71551174
+rs4491175-<b>T</b>,"8 x 10-6",(AA),NR,'-,"1.1 unit increase",[0.59-1.61],LINC02748,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,11:91223046
+rs7772131-<b>?</b>,"3 x 10-6",(AA),NR,'-,"6.73 unit decrease",[0.89-12.57],LINC00243,"Response to angiotensin II receptor blocker therapy","response to candesartan, hypertension",GCST001520,6:30827394
+rs11020821-<b>C</b>,"4 x 10-6",(EA),NR,'-,'-,'-,"PIWIL4, C11orf97","Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)","response to candesartan, hypertension",GCST001518,11:94538497
+rs7587205-<b>T</b>,"4 x 10-6",(AA),NR,'-,'-,'-,MAP4K3-DT,"Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)","response to candesartan, hypertension",GCST001518,2:39616057
+rs7168353-<b>C</b>,"1 x 10-6",(AA),NR,'-,'-,'-,"RGMA, AC108457.1","Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)","response to candesartan, hypertension",GCST001518,15:93095172
+rs790116-<b>G</b>,"2 x 10-7",(AA),NR,'-,'-,'-,EIF4BP8,"Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)","response to candesartan, hypertension",GCST001518,3:122662076
+rs3758785-<b>G</b>,"2 x 10-6",(EA),NR,'-,'-,'-,GPR83,"Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)","response to candesartan, hypertension",GCST001518,11:94398973
+rs6596140-<b>T</b>,"9 x 10-8",,0.34,'-,'-,'-,"FSTL4, AC005178.1",Hypertension,hypertension,GCST001423,5:133686160
+rs10021303-<b>A</b>,"7 x 10-6",,0.31,'-,'-,'-,BMPR1B,Hypertension,hypertension,GCST001423,4:94935530
+rs1110183-<b>G</b>,"8 x 10-6",,0.46,'-,'-,'-,AL390726.5,Hypertension,hypertension,GCST001423,9:38456368
+rs17249754-<b>?</b>,"3 x 10-7",,'-,'-,'-,'-,ATP2B1,Hypertension,hypertension,GCST008828,12:89666809
+rs7136259-<b>?</b>,"4 x 10-7",,'-,'-,'-,'-,ATP2B1,Hypertension,hypertension,GCST008828,12:89687411
+rs2254613-<b>?</b>,"7 x 10-6",,'-,'-,'-,'-,"MBIP, AL162511.1",Hypertension,hypertension,GCST008828,14:36243948
+rs1378942-<b>?</b>,"8 x 10-6",,'-,'-,'-,'-,CSK,Hypertension,hypertension,GCST008828,15:74785026
+rs4769612-<b>C</b>,"4 x 10-14",,0.52,1.19,'-,[1.13-1.24],"EIF4A1P7, AL139005.1","Preeclampsia (fetal genotype effect)","preeclampsia, fetal genotype effect measurement",GCST90013475,13:28564361
+rs11614652-<b>G</b>,"2 x 10-7",,0.21,1.18,'-,[1.1-1.23],ITPR2,"Preeclampsia (fetal genotype effect)","preeclampsia, fetal genotype effect measurement",GCST90013475,12:26805069
+rs5866671-<b>T</b>,"2 x 10-7",,0.2,1.17,'-,[1.1-1.25],"CDH10, AC091885.2","Preeclampsia (fetal genotype effect)","preeclampsia, fetal genotype effect measurement",GCST90013475,5:24557204
+rs75293382-<b>C</b>,"1 x 10-6",,0.06,1.3,'-,[1.18-1.45],C2orf83,"Preeclampsia (fetal genotype effect)","preeclampsia, fetal genotype effect measurement",GCST90013475,2:227645620
+rs4655789-<b>G</b>,"8 x 10-6",,0.14,1.14,'-,[1.08-1.19],WLS,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,1:68228568
+rs708119-<b>C</b>,"4 x 10-7",,0.6771,1.1,'-,[1.06-1.14],WNT3A,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,1:228015567
+rs1918975-<b>T</b>,"1 x 10-8",,0.598,1.1,'-,[1.07-1.14],"MECOM-AS1, MECOM","Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,3:169462088
+rs35630707-<b>C</b>,"7 x 10-6",,0.02,1.47,'-,[1.23-1.72],"AC092596.2, AC097655.1","Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,4:59999871
+rs1458038-<b>T</b>,"1 x 10-8",,0.3288,1.11,'-,[1.07-1.15],"FGF5, PRDM8","Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,4:80243569
+rs140479110-<b>GGA</b>,"2 x 10-7",,0.32,1.1,'-,[1.06-1.15],LINC02119,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,5:38050783
+rs9263761-<b>G</b>,"2 x 10-6",,0.76,1.11,'-,[1.06-1.16],CCHCR1,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,6:31148962
+rs10774624-<b>G</b>,"2 x 10-8",,0.4,1.11,'-,[1.07-1.15],LINC02356,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,12:111395984
+rs7318880-<b>T</b>,"8 x 10-8",,0.5008,1.1,'-,[1.06-1.13],"AL139005.1, EIF4A1P7","Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,13:28564148
+rs1421085-<b>C</b>,"1 x 10-9",,0.39,1.11,'-,[1.07-1.15],FTO,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,16:53767042
+rs181793400-<b>T</b>,"6 x 10-6",,0.0216,1.41,'-,[1.22-1.63],PIGN,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,18:61921970
+rs259983-<b>C</b>,"3 x 10-10",,0.14,1.17,'-,[1.11-1.23],ZNF831,"Preeclampsia (maternal genotype effect)","preeclampsia, parental genotype effect measurement",GCST90013478,20:59160402
+rs1442118-<b>A</b>,"2 x 10-8",(EA),NR,'-,"3.89 unit increase",NR,LINC02163,"Systolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009645,5:104354615
+rs79944011-<b>A</b>,"5 x 10-8",(AA),NR,'-,"19.13 unit increase",NR,"AC008154.1, AC009275.1","Systolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009645,7:134355236
+rs79237970-<b>T</b>,"8 x 10-9",(AA),NR,'-,"12.02 unit decrease",NR,WDR92,"Diastolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009646,2:68123598
+rs118131161-<b>G</b>,"1 x 10-8",(EA),NR,'-,"7.3599 unit increase",NR,"AL390755.1, AL390755.3","Diastolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009646,13:110131585
+rs2400940-<b>T</b>,"4 x 10-8",(EA),NR,'-,"2.5285 unit increase",NR,"MEG3, DLK1","Diastolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009646,14:100758585
+rs118140307-<b>C</b>,"5 x 10-8",(EA),NR,'-,"7.1643 unit increase",NR,LRRC4C,"Diastolic blood pressure response to thiazide and thiazide-like diuretics in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009646,11:40895426
+chr1:218216863-<b>A</b>,"1 x 10-6",(AA),0.028,'-,"15.71 unit increase",[9.67-21.75],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:190369649-<b>G</b>,"1 x 10-6",(AA),0.073,'-,"11.49 unit decrease",[7.02-15.96],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr22:19342329-<b>C</b>,"2 x 10-6",(AA),0.017,'-,"20.28 unit decrease",[12.26-28.3],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr13:33831026-<b>A</b>,"2 x 10-6",(AA),0.176,'-,"6.24 unit increase",[3.77-8.71],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr6:45490690-<b>T</b>,"2 x 10-6",(AA),0.034,'-,"14.74 unit increase",[8.88-20.6],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr14:46568609-<b>A</b>,"3 x 10-6",(AA),0.021,'-,"21.21 unit increase",[12.66-29.76],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr4:140544936-<b>A</b>,"3 x 10-6",(AA),0.29,'-,"4.85 unit increase",[2.89-6.81],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr14:68773739-<b>T</b>,"3 x 10-6",(AA),0.244,'-,"5.63 unit increase",[3.36-7.9],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr11:21259199-<b>T</b>,"4 x 10-6",(AA),0.257,'-,"6.22 unit increase",[3.69-8.75],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr5:156144905-<b>G</b>,"4 x 10-6",(AA),0.012,'-,"24.79 unit increase",[14.72-34.86],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr14:97468972-<b>C</b>,"4 x 10-6",(AA),0.425,'-,"5.02 unit increase",[2.98-7.06],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr2:40645825-<b>A</b>,"4 x 10-6",(AA),0.14,'-,"6.55 unit increase",[3.88-9.22],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr6:158195695-<b>G</b>,"4 x 10-6",(AA),0.288,'-,"4.98 unit decrease",[2.94-7.02],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr7:137230391-<b>C</b>,"4 x 10-6",(AA),0.031,'-,"15.06 unit increase",[8.89-21.23],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr1:205796021-<b>C</b>,"4 x 10-6",(AA),0.068,'-,"10.53 unit decrease",[6.2-14.86],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr13:92244167-<b>T</b>,"5 x 10-6",(AA),0.031,'-,"14.42 unit increase",[8.48-20.36],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr5:76411774-<b>T</b>,"5 x 10-6",(AA),0.037,'-,"12.72 unit decrease",[7.47-17.97],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr7:55729814-<b>C</b>,"5 x 10-6",(AA),0.347,'-,"4.86 unit decrease",[2.86-6.86],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr2:60002943-<b>GC</b>,"6 x 10-6",(AA),0.18,'-,"5.86 unit increase",[3.43-8.29],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr15:62437471-<b>C</b>,"6 x 10-6",(EA),0.01,'-,"14.23 unit decrease",[8.25-20.21],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr11:127223995-<b>C</b>,"6 x 10-6",(EA),0.377,'-,"2.62 unit decrease",[1.52-3.72],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr20:61032694-<b>T</b>,"6 x 10-6",(EA),0.081,'-,"4.85 unit increase",[2.81-6.89],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr2:148156515-<b>T</b>,"7 x 10-6",(EA),0.029,'-,"11.32 unit decrease",[6.54-16.1],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr21:15364317-<b>A</b>,"7 x 10-6",(EA),0.017,'-,"13.57 unit decrease",[7.83-19.31],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:37276320-<b>T</b>,"7 x 10-6",(EA),0.284,'-,"2.61 unit increase",[1.51-3.71],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr9:18139412-<b>G</b>,"7 x 10-6",(EA),0.235,'-,"2.65 unit increase",[1.53-3.77],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr1:115464269-<b>CA</b>,"7 x 10-6",(EA),0.353,'-,"2.78 unit increase",[1.6-3.96],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr15:38626475-<b>C</b>,"8 x 10-6",(EA),0.102,'-,"4.16 unit decrease",[2.4-5.92],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr5:38751223-<b>C</b>,"8 x 10-6",(EA),0.414,'-,"2.19 unit decrease",[1.25-3.13],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr19:10408439-<b>C</b>,"8 x 10-6",(EA),0.035,'-,"8.44 unit decrease",[4.83-12.05],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr2:34319717-<b>A</b>,"8 x 10-6",(EA),0.359,'-,"2.2 unit increase",[1.26-3.14],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:65620508-<b>G</b>,"8 x 10-6",(EA),0.025,'-,"7.47 unit decrease",[4.28-10.66],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr16:65929016-<b>G</b>,"9 x 10-6",(EA),0.46,'-,"2.2 unit increase",[1.26-3.14],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr14:95912388-<b>A</b>,"9 x 10-6",(EA),0.076,'-,"3.92 unit decrease",[2.23-5.61],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr9:106700069-<b>T</b>,"2 x 10-7",(AA),0.028,'-,"10.07 unit decrease",[6.48-13.66],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:50624217-<b>G</b>,"2 x 10-7",(AA),0.02,'-,"12.5 unit decrease",[8.03-16.97],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:48940347-<b>T</b>,"2 x 10-7",(AA),0.011,'-,"18.36 unit decrease",[11.74-24.98],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:58418501-<b>A</b>,"3 x 10-7",(AA),0.085,'-,"6.74 unit increase",[4.31-9.17],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr13:106475443-<b>T</b>,"3 x 10-7",(AA),0.018,'-,"12.6 unit decrease",[8.01-17.19],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr11:2913938-<b>T</b>,"4 x 10-7",(AA),0.011,'-,"18.32 unit decrease",[11.56-25.08],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr4:180442771-<b>C</b>,"4 x 10-7",(AA),0.024,'-,"11.38 unit decrease",[7.19-15.57],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr21:45737605-<b>T</b>,"1 x 10-6",(AA),0.026,'-,"11.46 unit decrease",[7.07-15.85],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:81977545-<b>C</b>,"1 x 10-6",(AA),0.016,'-,"13.25 unit decrease",[8.17-18.33],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr2:158485292-<b>A</b>,"1 x 10-6",(AA),0.013,'-,"20.3 unit decrease",[12.44-28.16],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr10:76167912-<b>A</b>,"9 x 10-6",(AA),0.271,'-,"4.31 unit increase",[2.47-6.15],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr19:55129569-<b>AAAAAAAG</b>,"9 x 10-6",(AA),0.072,'-,"6.54 unit increase",[3.76-9.32],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:27411608-<b>T</b>,"9 x 10-6",(AA),0.217,'-,"3.91 unit decrease",[2.24-5.58],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr12:70421583-<b>C</b>,"7 x 10-7",(EA),0.479,'-,"2.67 unit decrease",[1.65-3.69],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr20:47032395-<b>A</b>,"2 x 10-6",(EA),0.134,'-,"5.42 unit decrease",[3.26-7.58],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr6:26045367-<b>TTA</b>,"2 x 10-6",(EA),0.045,'-,"8.66 unit decrease",[5.19-12.13],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr16:56697867-<b>G</b>,"3 x 10-6",(EA),0.126,'-,"5.53 unit decrease",[3.3-7.76],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr18:66520811-<b>AT</b>,"3 x 10-6",(EA),0.024,'-,"10.69 unit increase",[6.36-15.02],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:1688900-<b>A</b>,"3 x 10-6",(EA),0.041,'-,"5.46 unit decrease",[3.25-7.67],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr20:10244172-<b>C</b>,"4 x 10-6",(EA),0.041,'-,"6.35 unit decrease",[3.72-8.98],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr17:42821246-<b>C</b>,"5 x 10-6",(EA),0.01,'-,"16.99 unit decrease",[9.93-24.05],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr4:144288418-<b>A</b>,"6 x 10-6",(EA),0.009,'-,"13.28 unit decrease",[7.71-18.85],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:104359310-<b>T</b>,"6 x 10-6",(EA),0.037,'-,"8.1 unit decrease",[4.69-11.51],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr15:62437471-<b>C</b>,"6 x 10-6",(EA),0.01,'-,"14.23 unit decrease",[8.25-20.21],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr11:127223995-<b>C</b>,"6 x 10-6",(EA),0.377,'-,"2.62 unit decrease",[1.52-3.72],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr20:61032694-<b>T</b>,"6 x 10-6",(EA),0.081,'-,"4.85 unit increase",[2.81-6.89],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr2:148156515-<b>T</b>,"7 x 10-6",(EA),0.029,'-,"11.32 unit decrease",[6.54-16.1],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr21:15364317-<b>A</b>,"7 x 10-6",(EA),0.017,'-,"13.57 unit decrease",[7.83-19.31],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:37276320-<b>T</b>,"7 x 10-6",(EA),0.284,'-,"2.61 unit increase",[1.51-3.71],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr9:18139412-<b>G</b>,"7 x 10-6",(EA),0.235,'-,"2.65 unit increase",[1.53-3.77],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr1:115464269-<b>CA</b>,"7 x 10-6",(EA),0.353,'-,"2.78 unit increase",[1.6-3.96],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr15:38626475-<b>C</b>,"8 x 10-6",(EA),0.102,'-,"4.16 unit decrease",[2.4-5.92],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:38751223-<b>C</b>,"8 x 10-6",(EA),0.414,'-,"2.19 unit decrease",[1.25-3.13],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr19:10408439-<b>C</b>,"8 x 10-6",(EA),0.035,'-,"8.44 unit decrease",[4.83-12.05],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr2:34319717-<b>A</b>,"8 x 10-6",(EA),0.359,'-,"2.2 unit increase",[1.26-3.14],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr1:28452553-<b>T</b>,"6 x 10-6",(AA),0.019,'-,"17.5 unit increase",[10.23-24.77],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr18:29665179-<b>G</b>,"6 x 10-6",(AA),0.014,'-,"21.45 unit increase",[12.49-30.41],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr1:4550104-<b>A</b>,"6 x 10-6",(AA),0.149,'-,"5.93 unit decrease",[3.46-8.4],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr15:42938962-<b>A</b>,"7 x 10-6",(AA),0.367,'-,"4.53 unit decrease",[2.63-6.43],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:70984708-<b>C</b>,"7 x 10-6",(AA),0.025,'-,"15.05 unit increase",[8.74-21.36],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr16:4200277-<b>T</b>,"7 x 10-6",(AA),0.028,'-,"15.14 unit decrease",[8.79-21.49],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr21:30014690-<b>A</b>,"7 x 10-6",(AA),0.116,'-,"7.09 unit increase",[4.11-10.07],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr20:52774427-<b>G</b>,"7 x 10-6",(AA),0.409,'-,"5 unit increase",[2.9-7.1],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:39754820-<b>C</b>,"7 x 10-6",(AA),0.359,'-,"4.63 unit decrease",[2.69-6.57],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr7:133636770-<b>A</b>,"8 x 10-6",(AA),0.032,'-,"12.59 unit increase",[7.28-17.9],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr7:134039988-<b>A</b>,"8 x 10-6",(AA),0.012,'-,"20.96 unit increase",[12.1-29.82],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr17:70810958-<b>G</b>,"9 x 10-6",(AA),0.057,'-,"10.34 unit increase",[5.95-14.73],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr3:68603582-<b>G</b>,"9 x 10-6",(AA),0.366,'-,"4.52 unit decrease",[2.6-6.44],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr10:13468298-<b>G</b>,"9 x 10-6",(AA),0.036,'-,"12.73 unit increase",[7.32-18.14],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr16:7504546-<b>G</b>,"9 x 10-6",(AA),0.162,'-,"6.53 unit decrease",[3.75-9.31],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr12:70421583-<b>C</b>,"7 x 10-7",(EA),0.479,'-,"2.67 unit decrease",[1.65-3.69],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr20:47032395-<b>A</b>,"2 x 10-6",(EA),0.134,'-,"5.42 unit decrease",[3.26-7.58],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr6:26045367-<b>TTA</b>,"2 x 10-6",(EA),0.045,'-,"8.66 unit decrease",[5.19-12.13],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr16:56697867-<b>G</b>,"3 x 10-6",(EA),0.126,'-,"5.53 unit decrease",[3.3-7.76],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr18:66520811-<b>AT</b>,"3 x 10-6",(EA),0.024,'-,"10.69 unit increase",[6.36-15.02],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr5:1688900-<b>A</b>,"3 x 10-6",(EA),0.041,'-,"5.46 unit decrease",[3.25-7.67],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr20:10244172-<b>C</b>,"4 x 10-6",(EA),0.041,'-,"6.35 unit decrease",[3.72-8.98],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr17:42821246-<b>C</b>,"5 x 10-6",(EA),0.01,'-,"16.99 unit decrease",[9.93-24.05],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr4:144288418-<b>A</b>,"6 x 10-6",(EA),0.009,'-,"13.28 unit decrease",[7.71-18.85],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr14:104359310-<b>T</b>,"6 x 10-6",(EA),0.037,'-,"8.1 unit decrease",[4.69-11.51],'-,"Systolic blood pressure response to chlorthalidone in hypertension","response to diuretic, hypertension, systolic blood pressure change measurement",GCST009644,"Mapping not available"
+chr22:41218683-<b>C</b>,"5 x 10-6",(AA),0.019,'-,"12.63 unit decrease",[7.4-17.86],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr6:88202550-<b>A</b>,"6 x 10-6",(AA),0.021,'-,"10.39 unit decrease",[6.08-14.7],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr2:68350730-<b>T</b>,"6 x 10-6",(AA),0.011,'-,"15.75 unit decrease",[9.2-22.3],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr10:33886562-<b>G</b>,"6 x 10-6",(AA),0.112,'-,"4.81 unit increase",[2.81-6.81],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:142574962-<b>T</b>,"6 x 10-6",(AA),0.184,'-,"4.29 unit decrease",[2.51-6.07],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr13:76825276-<b>A</b>,"6 x 10-6",(AA),0.024,'-,"8.75 unit decrease",[5.1-12.4],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr1:182097713-<b>C</b>,"6 x 10-6",(AA),0.034,'-,"9.18 unit decrease",[5.34-13.02],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:123014904-<b>T</b>,"6 x 10-6",(AA),0.023,'-,"12.66 unit decrease",[7.37-17.95],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr16:77814065-<b>A</b>,"7 x 10-6",(AA),0.031,'-,"9.01 unit decrease",[5.23-12.79],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr15:41901475-<b>C</b>,"7 x 10-6",(AA),0.033,'-,"8.51 unit decrease",[4.94-12.08],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:37843727-<b>AG</b>,"7 x 10-6",(AA),0.241,'-,"3.49 unit decrease",[2.02-4.96],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr22:19321745-<b>A</b>,"7 x 10-6",(AA),0.013,'-,"15.6 unit decrease",[9.03-22.17],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr15:24599180-<b>A</b>,"7 x 10-6",(AA),0.028,'-,"11.27 unit decrease",[6.53-16.01],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:51443231-<b>C</b>,"8 x 10-6",(AA),0.045,'-,"7.21 unit decrease",[4.17-10.25],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr11:2852309-<b>T</b>,"8 x 10-6",(AA),0.027,'-,"9.35 unit decrease",[5.41-13.29],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr16:5571510-<b>T</b>,"8 x 10-6",(AA),0.055,'-,"7.05 unit decrease",[4.07-10.03],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:47049146-<b>G</b>,"8 x 10-6",(AA),0.096,'-,"5.28 unit decrease",[3.05-7.51],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr1:23715978-<b>G</b>,"8 x 10-6",(AA),0.205,'-,"3.63 unit increase",[2.1-5.16],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr10:97987596-<b>C</b>,"8 x 10-6",(AA),0.011,'-,"15.92 unit decrease",[9.18-22.66],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:92693591-<b>T</b>,"9 x 10-6",(AA),0.034,'-,"8.29 unit decrease",[4.78-11.8],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:76449714-<b>G</b>,"9 x 10-6",(AA),0.046,'-,"7.86 unit decrease",[4.53-11.19],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr2:2870592-<b>G</b>,"9 x 10-6",(AA),0.032,'-,"8.85 unit decrease",[5.09-12.61],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr20:11017205-<b>C</b>,"9 x 10-6",(AA),0.012,'-,"18.31 unit decrease",[10.53-26.09],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:47580813-<b>T</b>,"9 x 10-6",(AA),0.123,'-,"4.88 unit decrease",[2.8-6.96],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:77343407-<b>G</b>,"9 x 10-6",(AA),0.197,'-,"3.96 unit decrease",[2.27-5.65],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:65620508-<b>G</b>,"8 x 10-6",(EA),0.025,'-,"7.47 unit decrease",[4.28-10.66],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr16:65929016-<b>G</b>,"9 x 10-6",(EA),0.46,'-,"2.2 unit increase",[1.26-3.14],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:95912388-<b>A</b>,"9 x 10-6",(EA),0.076,'-,"3.92 unit decrease",[2.23-5.61],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:89122108-<b>C</b>,"1 x 10-6",(AA),0.014,'-,"16.42 unit decrease",[10.07-22.77],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr7:10129002-<b>T</b>,"1 x 10-6",(AA),0.011,'-,"19.72 unit decrease",[12.08-27.36],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr17:47989987-<b>G</b>,"1 x 10-6",(AA),0.024,'-,"13.08 unit decrease",[7.98-18.18],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr10:76827323-<b>A</b>,"2 x 10-6",(AA),0.217,'-,"3.84 unit increase",[2.35-5.33],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:10515903-<b>G</b>,"2 x 10-6",(AA),0.035,'-,"8.76 unit decrease",[5.31-12.21],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:89369962-<b>A</b>,"2 x 10-6",(AA),0.02,'-,"9.68 unit decrease",[5.86-13.5],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr3:69281337-<b>G</b>,"2 x 10-6",(AA),0.48,'-,"3.59 unit decrease",[2.16-5.02],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr9:31295759-<b>A</b>,"3 x 10-6",(AA),0.027,'-,"10.88 unit decrease",[6.53-15.23],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr19:42342073-<b>A</b>,"3 x 10-6",(AA),0.026,'-,"12.79 unit decrease",[7.65-17.93],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr7:18282368-<b>A</b>,"3 x 10-6",(AA),0.012,'-,"15.18 unit decrease",[9.08-21.28],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr6:162192205-<b>A</b>,"3 x 10-6",(AA),0.017,'-,"13.71 unit decrease",[8.2-19.22],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr12:119779963-<b>T</b>,"3 x 10-6",(AA),0.015,'-,"17.29 unit decrease",[10.33-24.25],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:134743852-<b>T</b>,"3 x 10-6",(AA),0.015,'-,"14.94 unit decrease",[8.92-20.96],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr22:47691442-<b>T</b>,"3 x 10-6",(AA),0.02,'-,"13.15 unit decrease",[7.84-18.46],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr16:57510363-<b>A</b>,"3 x 10-6",(AA),0.014,'-,"14.31 unit decrease",[8.51-20.11],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr11:121771661-<b>A</b>,"3 x 10-6",(AA),0.011,'-,"13.12 unit decrease",[7.81-18.43],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr4:187490357-<b>G</b>,"4 x 10-6",(AA),0.427,'-,"3.09 unit decrease",[1.84-4.34],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr7:144890144-<b>C</b>,"4 x 10-6",(AA),0.026,'-,"9.93 unit decrease",[5.87-13.99],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:36281438-<b>C</b>,"4 x 10-6",(AA),0.013,'-,"15.42 unit decrease",[9.13-21.71],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr5:10489128-<b>T</b>,"4 x 10-6",(AA),0.019,'-,"13.7 unit decrease",[8.09-19.31],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr14:62849226-<b>G</b>,"4 x 10-6",(AA),0.055,'-,"5.9 unit decrease",[3.49-8.31],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr8:71365589-<b>T</b>,"4 x 10-6",(AA),0.017,'-,"13.25 unit decrease",[7.82-18.68],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr15:63923093-<b>C</b>,"5 x 10-6",(AA),0.092,'-,"5.81 unit decrease",[3.42-8.2],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr12:48800679-<b>A</b>,"5 x 10-6",(AA),0.011,'-,"17.06 unit decrease",[10.04-24.08],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+chr9:115570712-<b>T</b>,"5 x 10-6",(AA),0.062,'-,"6.91 unit decrease",[4.05-9.77],'-,"Diastolic blood pressure response to chlorthalidone in hypertension","response to diuretic, diastolic blood pressure change measurement, hypertension",GCST009643,"Mapping not available"
+rs4905794-<b>G</b>,"1 x 10-8",,0.08,'-,"4.8 percent decrease",'-,"AL162151.1, AL162151.3","Systolic blood pressure night-to-day ratio in hypertension","hypertension, systolic blood pressure change measurement",GCST006274,14:99013332
+rs16984571-<b>G</b>,"6 x 10-6",,0.15,'-,"2.7 percent decrease",'-,KCNS3,"Systolic blood pressure night-to-day ratio in hypertension","hypertension, systolic blood pressure change measurement",GCST006274,2:18264208
+rs4905794-<b>G</b>,"2 x 10-6",,0.08,'-,"4.3 percent decrease",'-,"AL162151.1, AL162151.3","Diastolic blood pressure night-to-day ratio in hypertension","diastolic blood pressure change measurement, hypertension",GCST006273,14:99013332
+rs2119704-<b>A</b>,"3 x 10-6",,0.07,'-,"4.6 percent decrease",'-,LINC01147,"Diastolic blood pressure night-to-day ratio in hypertension","diastolic blood pressure change measurement, hypertension",GCST006273,14:88021345
+rs10817396-<b>G</b>,"6 x 10-6",,0.17,'-,"3.1 percent increase",'-,SNX30,"Diastolic blood pressure night-to-day ratio in hypertension","diastolic blood pressure change measurement, hypertension",GCST006273,9:112847661
+rs12509878-<b>C</b>,"6 x 10-6",,0.34,'-,"2.2 percent decrease",'-,LINC02267,"Diastolic blood pressure night-to-day ratio in hypertension","diastolic blood pressure change measurement, hypertension",GCST006273,4:96774250
+rs1230361-<b>A</b>,"9 x 10-6",,0.47,'-,"2.1 percent increase",'-,"AC009126.1, ERAP2","Diastolic blood pressure night-to-day ratio in hypertension","diastolic blood pressure change measurement, hypertension",GCST006273,5:96877467
+rs189825457-<b>T</b>,"3 x 10-6",,0.0105,2.802,'-,[1.817-4.321],"OR4E1, AC243972.3","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,14:21697869
+rs139706713-<b>A</b>,"3 x 10-6",,0.01137,2.771,'-,[1.809-4.245],"LINC00640, AL358332.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,14:51361080
+rs57068616-<b>A</b>,"9 x 10-6",,0.02136,2.213,'-,[1.559-3.141],"TTC8, AL137785.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,14:88883992
+rs7500920-<b>C</b>,"1 x 10-5",,0.1725,1.457,'-,[1.23299999999999-1.72099999999999],VAT1L,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,16:77927362
+rs113018692-<b>C</b>,"6 x 10-6",,0.142,1.51,'-,[1.263-1.806],"LYZL6, AC244100.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,17:35947866
+rs118080693-<b>T</b>,"6 x 10-6",,0.03699,1.906,'-,[1.442-2.52],PSMB3,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,17:38763797
+rs552316137-<b>C</b>,"9 x 10-6",,0.01629,2.376,'-,[1.621-3.484],"NRBF2P1, AC090229.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,18:35792648
+rs115711179-<b>T</b>,"2 x 10-6",,0.03116,2.059,'-,[1.53199999999999-2.76899999999999],PDE9A,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,21:42655167
+rs5755044-<b>G</b>,"4 x 10-6",,0.3125,1.406,'-,[1.216-1.626],"LINC01643, AL021877.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,22:34429432
+rs923254007-<b>T</b>,"8 x 10-7",,0.01019,3.157,'-,[2.0-4.982],"PRKCZ-AS1, PRKCZ","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,1:2184025
+rs145844325-<b>A</b>,"6 x 10-6",,0.01499,2.56,'-,[1.702-3.852],MORN1,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,1:2354728
+rs423796-<b>A</b>,"6 x 10-6",,0.1877,1.462,'-,[1.2409999999999899-1.722],AJAP1,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,1:4758345
+rs333146-<b>A</b>,"7 x 10-6",,0.1921,0.6203,'-,[0.5036-0.7642],NFIA,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,1:61215828
+rs72655914-<b>T</b>,"3 x 10-6",,0.02253,2.278,'-,[1.614-3.216],B4GALT4-AS1,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,3:119242117
+rs117276818-<b>C</b>,"6 x 10-6",,0.06617,1.71,'-,[1.35599999999999-2.156],"AC092969.1, AC092989.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,3:135574430
+rs13097891-<b>C</b>,"7 x 10-6",,0.08575,1.621,'-,[1.31199999999999-2.002],"FXR1, CCDC39, AC108734.4","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,3:180869224
+rs117739669-<b>A</b>,"8 x 10-6",,0.0556,1.774,'-,[1.379-2.282],DNAH11,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,7:21627284
+rs73696792-<b>T</b>,"9 x 10-6",,0.01064,2.816,'-,[1.781-4.452],"SGO1P2, AC006459.1","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,7:52811360
+rs142267843-<b>T</b>,"2 x 10-6",,0.01118,2.749,'-,[1.808-4.18],AC079760.1,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,7:91556500
+rs62522238-<b>C</b>,"2 x 10-6",,0.2086,1.467,'-,[1.253-1.719],"POP1, NIPAL2","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,8:98181007
+rs150806794-<b>A</b>,"2 x 10-6",,0.02304,2.21,'-,[1.59-3.074],"SLC1A1, RNU6-694P","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,9:4478791
+rs148155931-<b>T</b>,"3 x 10-6",,0.02029,2.372,'-,[1.648-3.415],"AL160272.2, TPT1P9","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,9:118073620
+rs148025923-<b>A</b>,"3 x 10-7",,0.0152,2.657,'-,[1.82599999999999-3.868],"ARHGAP21, AL157385.2","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,10:24794643
+rs11232439-<b>G</b>,"4 x 10-6",,0.05974,1.737,'-,[1.37199999999999-2.197],AP003398.2,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,11:81032737
+rs117975710-<b>C</b>,"7 x 10-6",,0.03997,1.868,'-,[1.421-2.456],"AP000797.1, LINC02151","Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,11:116277897
+rs149381084-<b>A</b>,"5 x 10-6",,0.01863,2.317,'-,[1.615-3.323],RNF17,"Ischemic stroke in hypertension","Ischemic stroke, hypertension",GCST90014126,13:24837433
+rs78210707-<b>?</b>,"4 x 10-6",,0.011,2.67,'-,[2.54-2.80],GRIN2B,"Alzheimer's disease in hypertension","Alzheimer's disease, hypertension",GCST008438,12:13763366
+rs28868104-<b>?</b>,"4 x 10-7",,0.131,1.4534883,'-,[1.36-1.55],"RAP1BP2, AC091804.1","Alzheimer's disease in hypertension","Alzheimer's disease, hypertension",GCST008438,3:104241993
+rs1925458-<b>?</b>,"1 x 10-6",,0.117,1.552795,'-,[1.45-1.66],AL139231.1,"Alzheimer's disease in hypertension","Alzheimer's disease, hypertension",GCST008438,6:23378723
+rs75036080-<b>?</b>,"3 x 10-6",,0.02,2.0576131,'-,[1.93-2.19],"SLC2A13, C12orf40","Alzheimer's disease in hypertension","Alzheimer's disease, hypertension",GCST008438,12:39882501
+rs429358-<b>?</b>,"6 x 10-43",,0.147,3.26,'-,[3.21-3.31],APOE,"Alzheimer's disease in hypertension","Alzheimer's disease, hypertension",GCST008438,19:44908684
+rs17067290-<b>T</b>,"6 x 10-6","(allelic model)",NR,8.4,'-,[NR],"AC020551.1, AC018710.1","Uric acid elevation in response to thiazide-like diuretic in hypertension","response to diuretic, hypertension, uric acid measurement",GCST009319,4:179265397
+rs2072883-<b>C</b>,"1 x 10-7","(recessive model)",NR,'-,'-,'-,"TTLL1, AL022476.1","Uric acid elevation in response to thiazide-like diuretic in hypertension","response to diuretic, hypertension, uric acid measurement",GCST009319,22:43039662
+rs11124945-<b>G</b>,"5 x 10-8",,0.19,7.61,'-,[3.39-17.09],PLEKHH2,"Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)","response to antihypertensive drug, diabetes mellitus, hypertension, response to beta blocker, response to calcium channel blocker",GCST003797,2:43650017
+rs113296370-<b>C</b>,"2 x 10-7",(European),0.19,8.83,'-,[8.01-9.65],"PLEKHH2, AC108222.1","Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)","response to antihypertensive drug, diabetes mellitus, hypertension, response to beta blocker, response to calcium channel blocker",GCST003797,2:43636315
+rs4833103-<b>?</b>,"1 x 10-7",(European),0.50,5.26,'-,[4.63-5.89],TLR1,"Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)","response to antihypertensive drug, diabetes mellitus, hypertension, response to beta blocker, response to calcium channel blocker",GCST003797,4:38813881
+rs822127-<b>A</b>,"7 x 10-6",(EA),0.37,'-,"0.6 mmHg decrease",[NR],"PLCXD3, AC008817.1","Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,5:41546857
+rs9370524-<b>A</b>,"9 x 10-6",(EA),0.36,'-,"0.58 mmHg increase",[NR],COL21A1,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,6:56354955
+rs10951933-<b>T</b>,"3 x 10-6",(EA),0.2,'-,"0.75 mmHg increase",[NR],PKD1L1,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,7:47867616
+rs2198596-<b>C</b>,"8 x 10-7",(EA),0.91,'-,"1.3 mmHg decrease",[NR],SGCZ,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,8:15143257
+rs11784910-<b>A</b>,"4 x 10-7",(EA),0.95,'-,"1.48 mmHg increase",[NR],ZDHHC2,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,8:17217746
+rs17755650-<b>T</b>,"6 x 10-6",(EA),0.9,'-,"1.17 mmHg increase",[NR],"AL359922.1, RN7SL151P","Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,9:21780038
+rs177848-<b>A</b>,"6 x 10-6",(EA),0.59,'-,"0.6 mmHg decrease",[NR],TTC6,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,14:37634801
+rs11657217-<b>C</b>,"5 x 10-6",(EA),0.69,'-,"0.7 mmHg decrease",[NR],ENPP7,"Diastolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension",GCST003805,17:79735540
+rs7565329-<b>T</b>,"7 x 10-6",(EA),0.09,'-,"1.7 mmHg decrease",[NR],"LINC01812, AC079112.1","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,2:67878704
+rs12642634-<b>A</b>,"5 x 10-6",(EA),0.78,'-,"1.1 mmHg increase",[NR],"AC108206.2, LINC01095","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,4:146064475
+rs11750990-<b>A</b>,"8 x 10-6",(EA),0.96,'-,"2.44 mmHg increase",[NR],"RNU2-8P, AL603865.2","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,6:121614456
+rs2876449-<b>T</b>,"7 x 10-6",(EA),0.03,'-,"2.8 mmHg decrease",[NR],AL035446.2,"Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,6:140736804
+rs11784910-<b>A</b>,"4 x 10-7",(EA),0.95,'-,"2.31 mmHg increase",[NR],ZDHHC2,"Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,8:17217746
+rs2925663-<b>T</b>,"7 x 10-6",(EA),0.12,'-,"1.4 mmHg decrease",[NR],"AC092819.2, UBXN2B","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,8:58349310
+rs13253998-<b>T</b>,"7 x 10-6",(EA),0.51,'-,"0.9 mmHg decrease",[NR],"AC084706.1, AC062004.1","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,8:77622326
+rs7960884-<b>A</b>,"4 x 10-6",(EA),0.27,'-,"1.09 mmHg increase",[NR],"AC024940.5, AC024940.2","Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,12:31207706
+rs16962897-<b>A</b>,"3 x 10-7",(EA),0.12,'-,"1.7 mmHg decrease",[NR],DNAAF1,"Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,16:84175474
+rs4150161-<b>T</b>,"1 x 10-6",(EA),0.86,'-,"1.53 mmHg increase",[NR],TAF1C,"Systolic blood pressure response to hydrochlorothiazide in hypertension","response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement",GCST003807,16:84180630
+rs11646213-<b>T</b>,"8 x 10-6",,0.60,1.28,'-,[1.15-1.43],"CDH13, AC009117.2",Hypertension,hypertension,GCST000361,16:82609046
+rs11775334-<b>A</b>,"4 x 10-6",,0.32,'-,"0.08 log odds increase",[0.04-0.12],MSRA,Hypertension,hypertension,GCST000398,8:10214110
+rs2681472-<b>A</b>,"2 x 10-11",,0.83,'-,"0.15 log odds increase",[0.11-0.19],ATP2B1,Hypertension,hypertension,GCST000398,12:89615182
+rs16982520-<b>A</b>,"2 x 10-7",,0.88,'-,"0.13 log odds decrease",[0.09-0.17],ZNF831,Hypertension,hypertension,GCST000398,20:59183665
+rs11014166-<b>A</b>,"6 x 10-8",,0.66,'-,"0.09 log odds increase",[0.05-0.13],CACNB2,Hypertension,hypertension,GCST000398,10:18419869
+rs117521141-<b>G</b>,"9 x 10-6",,0.02726,1.635,'-,[1.31599999999999-2.033],"UAP1, DDR2","Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,1:162617136
+rs28524990-<b>G</b>,"1 x 10-6",,0.4708,1.232,'-,[1.132-1.34],"ENAM, AMBN","Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,4:70623131
+rs114799463-<b>T</b>,"1 x 10-6",,0.01216,2.041,'-,[1.534-2.714],"RNU4ATAC9P, HNRNPA1P67","Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,4:72876700
+rs9969220-<b>A</b>,"6 x 10-6",,0.3272,0.8041,'-,[0.7318-0.8836],CADPS2,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,7:122731653
+rs867517174-<b>T</b>,"9 x 10-6",,0.01859,1.794,'-,[1.386-2.323],C8orf86,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,8:38522875
+rs7110894-<b>C</b>,"2 x 10-6",,0.01136,2.068,'-,[1.529-2.798],AC104389.5,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,11:5579723
+rs11606719-<b>G</b>,"1 x 10-5",,0.08443,0.6714,'-,[0.5627-0.8009],BCL9L,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,11:118911765
+rs75887718-<b>G</b>,"6 x 10-6",,0.07006,1.401,'-,[1.21-1.621],OPCML,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,11:132871258
+rs528967612-<b>T</b>,"4 x 10-6",,0.01322,1.976,'-,[1.479-2.638],SOX5,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,12:23568135
+rs192256050-<b>T</b>,"4 x 10-7",,0.101,1.388,'-,[1.22299999999999-1.577],TMEM132D,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,12:129902744
+rs12594508-<b>C</b>,"5 x 10-6",,0.3213,1.229,'-,[1.125-1.343],LINC00923,"Cardio-cerebrovascular disease in hypertension","Ischemic stroke, hypertension, coronary artery disease",GCST90014124,15:97792576
+rs181100621-<b>A</b>,"1 x 10-5",,0.01084,2.208,'-,[1.555-3.136],PKN2-AS1,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,1:88499170
+rs6813378-<b>T</b>,"2 x 10-6",,0.02618,1.843,'-,[1.436-2.365],HGFAC,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,4:3445584
+rs78517437-<b>A</b>,"4 x 10-6",,0.1363,0.6711,'-,[0.5663-0.7952],"AC093898.1, AC006840.1","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,4:18908109
+rs28524990-<b>G</b>,"2 x 10-6",,0.4708,1.278,'-,[1.155-1.413],"ENAM, AMBN","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,4:70623131
+rs1903542-<b>G</b>,"3 x 10-6",,0.225,1.313,'-,[1.172-1.47099999999999],"AC017087.1, RNA5SP173","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,4:178465791
+rs12658928-<b>G</b>,"8 x 10-6",,0.05389,1.546,'-,[1.278-1.871],NPR3,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,5:32697485
+rs180780725-<b>T</b>,"9 x 10-6",,0.01371,2.065,'-,[1.5-2.842],"AL096854.1, COX6A1P3","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,6:120727455
+rs77202337-<b>T</b>,"7 x 10-6",,0.08841,1.433,'-,[1.225-1.675],"AC006482.1, SNX13","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,7:17683374
+rs10111944-<b>A</b>,"4 x 10-7",,0.02021,2.048,'-,[1.554-2.7],"NARS1P2, LINC02842","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,8:62097034
+rs1806524-<b>T</b>,"7 x 10-6",,0.3042,0.7685,'-,[0.685-0.8622],PHF2,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,9:93622242
+rs117802009-<b>C</b>,"8 x 10-6",,0.01692,2.007,'-,[1.47699999999999-2.728],ADARB2,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,10:1668290
+rs3864814-<b>A</b>,"6 x 10-7",,0.08596,0.5708,'-,[0.4579-0.7116],KIFBP,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,10:69018730
+rs7110894-<b>C</b>,"6 x 10-7",,0.01136,2.348,'-,[1.679-3.284],AC104389.5,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,11:5579723
+rs202083337-<b>A</b>,"6 x 10-6",,0.01416,2.146,'-,[1.54199999999999-2.986],"OR52X1P, OR56B4","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,11:6074586
+rs7132794-<b>C</b>,"9 x 10-6",,0.4482,1.255,'-,[1.135-1.388],"AC022276.1, LINC01559","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,12:13295359
+rs72656663-<b>T</b>,"6 x 10-6",,0.04195,1.634,'-,[1.321-2.022],PTPRO,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,12:15475159
+rs460452-<b>A</b>,"8 x 10-6",,0.07224,1.477,'-,[1.245-1.75199999999999],AL157911.1,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,14:60071311
+rs7160041-<b>T</b>,"4 x 10-6",,0.06514,1.51,'-,[1.268-1.799],"RPL17P2, AL157756.1","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,14:60237271
+rs12905312-<b>C</b>,"1 x 10-5",,0.1942,0.7286,'-,[0.6333-0.8382],CHD2,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,15:92966737
+rs9897366-<b>G</b>,"2 x 10-6",,0.1198,1.402,'-,[1.218-1.613],"TMEM100, AC105021.1","Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,17:55569624
+rs1550676-<b>C</b>,"6 x 10-9",,0.01176,2.607,'-,[1.886-3.602],LINC01977,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,17:79827256
+rs192256050-<b>T</b>,"8 x 10-7",,0.101,1.452,'-,[1.252-1.683],TMEM132D,"Coronary artery disease in hypertension","hypertension, coronary artery disease",GCST90014125,12:129902744
+11:92331394:A_AT-<b>?</b>,"2 x 10-8",(AA),NR,'-,'-,'-,'-,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,"Mapping not available"
+12:52807944-<b>?</b>,"1 x 10-7",(EA),'-,'-,'-,'-,'-,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,"Mapping not available"
+6:5337596-<b>?</b>,"2 x 10-7",(EA),'-,'-,'-,'-,'-,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,"Mapping not available"
+rs9943291-<b>G</b>,"4 x 10-8",(AA),0.0637,'-,"10.01 unit increase",[NR],HMGCS2,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,1:119749667
+6:131801262-<b>?</b>,"6 x 10-7",(EA),'-,'-,'-,'-,'-,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,"Mapping not available"
+rs61824877-<b>A</b>,"5 x 10-8",(AA),0.0606,'-,"9.08 unit increase",[NR],LINC00862,"Change in glucose in response to thiazide diuretic treatment in hypertension","response to thiazide, hypertension, glucose measurement",GCST005577,1:200273504
+rs28404156-<b>A</b>,"2 x 10-7",(EA),0.072,'-,"3.6 unit decrease",[2.25-4.95],BST1,"Response to beta blocker use in hypertension (systolic blood pressure)","hypertension, systolic blood pressure change measurement, response to beta blocker",GCST008736,4:15736109
+rs16964543-<b>T</b>,"4 x 10-7",,0.67,'-,"0.37 unit decrease",'-,ZNF536,"Myocardial infarction in hypertension (calcium channel blocker interaction)","hypertension, response to calcium channel blocker, myocardial infarction",GCST003206,19:30694303
+rs13333226-<b>A</b>,"4 x 10-11",,0.81,1.15,'-,[1.10-1.19],UMOD,Hypertension,hypertension,GCST000849,16:20354332
+rs1475591-<b>T</b>,"6 x 10-6",,0.42,1.18,'-,[1.10-1.27],"TIAM1, UBE3AP2",Hypertension,hypertension,GCST000973,21:31068221
+rs1735151-<b>T</b>,"9 x 10-6",,0.58,1.16,'-,[1.09-1.24],IGSF5,Hypertension,hypertension,GCST000973,21:39751374
+rs4665630-<b>?</b>,"1 x 10-7",,0.49,1.2135922,'-,[1.13-1.3],"KLHL29, AC009242.1",Hypertension,hypertension,GCST000973,2:23675447
+rs675026-<b>?</b>,"5 x 10-6",,0.72,1.2033695,'-,[1.11-1.3],OPRM1,Hypertension,hypertension,GCST000973,6:154093428
+rs10026364-<b>T</b>,"4 x 10-6",,0.2,1.28,'-,[1.15-1.42],"LINC02462, AC093722.1",Hypertension,hypertension,GCST000973,4:134601585
+rs7801190-<b>C</b>,"3 x 10-8",,0.72,1.31,'-,[1.19-1.44],SLC12A9,Hypertension,hypertension,GCST000973,7:100860471
+rs17589290-<b>?</b>,"6 x 10-6",,0.04,1.4285715,'-,[1.22-1.67],AC004704.1,Hypertension,hypertension,GCST000973,4:112002081
+rs7526425-<b>?</b>,"1 x 10-6",,0.84,1.1627907,'-,[1.09-1.24],"RD3, SLC30A1",Hypertension,hypertension,GCST000973,1:211527316
+rs147428270-<b>?</b>,"2 x 10-6",(Het),NR,'-,'-,'-,ULK4,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,3:41827229
+rs7654819-<b>?</b>,"7 x 10-6",(Het),NR,'-,'-,'-,"AC005699.1, AC025539.1","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,4:11617090
+rs76987554-<b>C</b>,"9 x 10-7",(Hom),NR,'-,'-,'-,TARID,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,6:133759717
+rs76987554-<b>C</b>,"1 x 10-7",(Het),NR,'-,'-,'-,TARID,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,6:133759717
+rs62434120-<b>T</b>,"5 x 10-7",(Hom),NR,'-,'-,'-,PLEKHG1,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,6:150671234
+rs6969780-<b>C</b>,"2 x 10-7",(Het),NR,'-,'-,'-,"HOXA3, HOXA-AS2","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:27119517
+rs10096908-<b>?</b>,"2 x 10-6",(Hom),NR,'-,'-,'-,ANK1,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:41784039
+rs186208701-<b>?</b>,"8 x 10-7",(Het),NR,'-,'-,'-,STK3,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:98567888
+rs187821766-<b>?</b>,"9 x 10-8",(Het),NR,'-,'-,'-,STK3,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:98729050
+rs78192203-<b>T</b>,"1 x 10-7",(Hom),NR,'-,'-,'-,GPR20,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:141364973
+rs78192203-<b>T</b>,"2 x 10-8",(Het),NR,'-,'-,'-,GPR20,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:141364973
+rs190531342-<b>?</b>,"2 x 10-6",(Hom),NR,'-,'-,'-,"UGCG, RNU6-710P","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,9:111957288
+10:14646769-<b>?</b>,"2 x 10-6",(Het),NR,'-,'-,'-,'-,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,"Mapping not available"
+rs77932157-<b>?</b>,"3 x 10-6",(Het),NR,'-,'-,'-,"AKR1B10P1, CTNNA3","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,10:67697886
+10:69514659-<b>?</b>,"2 x 10-6",(Het),NR,'-,'-,'-,'-,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,"Mapping not available"
+rs12149202-<b>?</b>,"8 x 10-6",(Het),NR,'-,'-,'-,GSE1,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,16:85666754
+rs114296860-<b>?</b>,"4 x 10-6",(Het),NR,'-,'-,'-,"AC034268.2, MTCO1P40","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,17:53208635
+rs115236533-<b>?</b>,"9 x 10-7",(Het),NR,'-,'-,'-,CDH18,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,5:19745606
+rs9385284-<b>G</b>,"1 x 10-6",(Het),NR,'-,'-,'-,"TRDN, CLVS2","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,6:123078960
+rs1027989-<b>G</b>,"7 x 10-7",(Hom),NR,'-,'-,'-,LYN,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:55901862
+rs1027989-<b>G</b>,"1 x 10-6",(Het),NR,'-,'-,'-,LYN,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:55901862
+rs115476423-<b>?</b>,"5 x 10-6",(Het),NR,'-,'-,'-,"ZNF746, ZNF767P","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:149502873
+rs9864989-<b>?</b>,"5 x 10-6",,NR,'-,"0.3463 unit increase",[0.20-0.50],PBRM1,Hypertension,hypertension,GCST004384,3:52650349
+rs6969780-<b>C</b>,"1 x 10-6",,NR,'-,"0.0747 unit increase",[0.045-0.105],"HOXA3, HOXA-AS2",Hypertension,hypertension,GCST004384,7:27119517
+rs79455834-<b>?</b>,"2 x 10-6",,NR,'-,"0.2443 unit increase",[0.14-0.34],AC068413.1,Hypertension,hypertension,GCST004384,8:121033084
+rs115795127-<b>T</b>,"1 x 10-8",,NR,'-,"0.1736 unit increase",[0.11-0.24],FRMD3,Hypertension,hypertension,GCST004384,9:83378986
+rs10279895-<b>G</b>,"9 x 10-9",,NR,'-,"0.1813 unit increase",[0.12-0.24],"HNRNPA1P73, RPL35P4",Hypertension,hypertension,GCST004384,7:27288591
+rs115706913-<b>?</b>,"3 x 10-7",,NR,'-,"0.2128 unit increase",[0.13-0.29],SGCZ,Hypertension,hypertension,GCST004384,8:14224308
+rs10096908-<b>?</b>,"6 x 10-6",,NR,'-,"0.0947 unit increase",[0.054-0.135],ANK1,Hypertension,hypertension,GCST004384,8:41784039
+rs115795127-<b>T</b>,"7 x 10-9",(Het),NR,'-,'-,'-,FRMD3,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,9:83378986
+rs7651190-<b>G</b>,"1 x 10-10",(Het),NR,'-,'-,'-,ULK4,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,3:41724463
+rs7372217-<b>G</b>,"1 x 10-11",(Het),NR,'-,'-,'-,ULK4,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,3:41948630
+rs11563582-<b>A</b>,"2 x 10-11",(Hom),NR,'-,'-,'-,"RPL35P4, HNRNPA1P73","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:27312031
+rs11563582-<b>A</b>,"2 x 10-9",(Het),NR,'-,'-,'-,"RPL35P4, HNRNPA1P73","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:27312031
+rs6969780-<b>C</b>,"1 x 10-8",(Hom),NR,'-,'-,'-,"HOXA3, HOXA-AS2","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:27119517
+rs11977526-<b>A</b>,"7 x 10-16",(Het),NR,'-,'-,'-,AC073115.2,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,7:45968511
+rs7006531-<b>G</b>,"2 x 10-13",(Het),NR,'-,'-,'-,AP003351.1,"Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,8:94098516
+rs12063100-<b>?</b>,"5 x 10-7",(Het),NR,'-,'-,'-,"AL691515.2, AL691515.1","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,1:188865413
+rs59922837-<b>?</b>,"4 x 10-6",(Het),NR,'-,'-,'-,"AC079150.1, LINC01850","Blood pressure traits (multi-trait analysis)","pulse pressure measurement, diastolic blood pressure, systolic blood pressure, hypertension",GCST004388,2:153318921
+rs4077408-<b>A</b>,"8 x 10-6",(EA),0.69,'-,"0.25 unit increase",[NR],HHAT,"Cardiovascular disease in hypertension (ACE inhibitor interaction)","hypertension, cardiovascular disease, response to angiotensin-converting enzyme inhibitor",GCST003186,1:210587100
+rs3768939-<b>A</b>,"9 x 10-7",(EA),0.19,'-,"0.35 unit decrease",'-,AGAP1,"Cardiovascular disease in hypertension (calcium channel blocker interaction)","hypertension, cardiovascular disease, response to calcium channel blocker",GCST003205,2:236081413
+rs7751419-<b>T</b>,"3 x 10-6",(EA),0.29,'-,"0.26 unit increase",'-,"KCNK5, SAYSD1","Cardiovascular disease in hypertension (calcium channel blocker interaction)","hypertension, cardiovascular disease, response to calcium channel blocker",GCST003205,6:39147637
+rs145054295-<b>?</b>,"4 x 10-8",,NR,'-,"0.4254598 unit decrease",[0.27-0.58],AP003066.1,Hypertension,hypertension,GCST008036,11:96709521
+rs2342883-<b>?</b>,"2 x 10-8",,NR,'-,"0.093572 unit decrease",[0.061-0.126],FGD5,Hypertension,hypertension,GCST008036,3:14869013
+rs79105258-<b>A</b>,"9 x 10-31","(East Asian)",0.2526,'-,"0.1707 unit decrease",[0.14-0.2],CUX2,Hypertension,hypertension,GCST007707,12:111280427
+rs17004869-<b>A</b>,"7 x 10-12",(Japanese),0.8721,'-,"0.1695 unit decrease",[0.12-0.22],FGF5,Hypertension,hypertension,GCST007707,4:80283879
+rs10857147-<b>A</b>,"2 x 10-23",(Japanese),0.6987,'-,"0.1584 unit decrease",[0.13-0.19],"FGF5, PRDM8",Hypertension,hypertension,GCST007707,4:80259918
+rs3774427-<b>C</b>,"1 x 10-13",(Japanese),0.8785,'-,"0.1478 unit decrease",[0.11-0.19],CACNA1D,Hypertension,hypertension,GCST007707,3:53531601
+rs16998073-<b>A</b>,"3 x 10-29","(East Asian)",0.6991,'-,"0.1444 unit decrease",[0.12-0.17],"PRDM8, FGF5",Hypertension,hypertension,GCST007707,4:80263187
+rs880315-<b>T</b>,"7 x 10-24","(East Asian)",0.3194,'-,"0.1224 unit decrease",[0.099-0.146],CASZ1,Hypertension,hypertension,GCST007707,1:10736809
+rs1731243-<b>T</b>,"2 x 10-18","(East Asian)",0.2465,'-,"0.1215 unit decrease",[0.094-0.149],KCNK3,Hypertension,hypertension,GCST007707,2:26707543
+rs112913898-<b>A</b>,"9 x 10-13",(Japanese),0.2506,'-,"0.1202 unit decrease",[0.087-0.153],"ST13P13, NT5C2",Hypertension,hypertension,GCST007707,10:103199143
+rs1731249-<b>A</b>,"5 x 10-14",(Japanese),0.2268,'-,"0.1198 unit decrease",[0.089-0.151],KCNK3,Hypertension,hypertension,GCST007707,2:26697157
+rs1275988-<b>T</b>,"1 x 10-13",(Japanese),0.2214,'-,"0.1177 unit decrease",[0.087-0.149],"KCNK3, AC015977.1",Hypertension,hypertension,GCST007707,2:26691496
+rs1973765-<b>T</b>,"4 x 10-16","(East Asian)",0.2554,'-,"0.1157 unit decrease",[0.088-0.144],LSP1,Hypertension,hypertension,GCST007707,11:1877434
+rs1902859-<b>T</b>,"4 x 10-14",(Japanese),0.6674,'-,"0.112 unit decrease",[0.083-0.141],"FGF5, PRDM8",Hypertension,hypertension,GCST007707,4:80236549
+rs12219304-<b>C</b>,"1 x 10-12","(East Asian)",0.248,'-,"0.0968 unit decrease",[0.07-0.123],NT5C2,Hypertension,hypertension,GCST007707,10:103171827
+rs17046380-<b>T</b>,"2 x 10-10","(East Asian)",0.816,'-,"0.0968 unit decrease",[0.067-0.127],EML6,Hypertension,hypertension,GCST007707,2:54814185
+rs6969780-<b>C</b>,"2 x 10-9",,0.122,'-,"6.018746 z score increase",'-,"HOXA3, HOXA-AS2",Hypertension,hypertension,GCST006229,7:27119517
+rs891511-<b>A</b>,"3 x 10-9",,0.37,'-,"5.9536796 z score decrease",'-,NOS3,Hypertension,hypertension,GCST006229,7:151007755
+rs11537751-<b>T</b>,"7 x 10-8",,0.048,'-,"5.3932295 z score increase",'-,"PTPMT1, NDUFS3",Hypertension,hypertension,GCST006229,11:47565900
+rs7302981-<b>A</b>,"5 x 10-10",,0.341,'-,"6.226642 z score increase",'-,"CERS5, AC074032.1",Hypertension,hypertension,GCST006229,12:50144032
+rs167479-<b>T</b>,"1 x 10-14",,0.451,'-,"7.721299 z score decrease",'-,RGL3,Hypertension,hypertension,GCST006229,19:11416089
+rs28495639-<b>A</b>,"8 x 10-10","(East Asian)",0.1868,'-,"0.0966 unit decrease",[0.066-0.127],USP8,Hypertension,hypertension,GCST007707,15:50464426
+rs569550-<b>T</b>,"1 x 10-8",(Japanese),0.2263,'-,"0.0954 unit decrease",[0.062-0.128],"AC051649.1, LSP1",Hypertension,hypertension,GCST007707,11:1865838
+rs8039305-<b>T</b>,"7 x 10-9","(East Asian)",0.857,'-,"0.0948 unit decrease",[0.063-0.127],FURIN,Hypertension,hypertension,GCST007707,15:90879313
+rs35443-<b>C</b>,"4 x 10-10",(Japanese),0.2547,'-,"0.0934 unit decrease",[0.064-0.123],"AC008125.1, AC078880.1",Hypertension,hypertension,GCST007707,12:115115073
+rs35434-<b>A</b>,"4 x 10-12","(East Asian)",0.2541,'-,"0.0906 unit decrease",[0.065-0.116],"AC008125.1, AC078880.1",Hypertension,hypertension,GCST007707,12:115116871
+rs4462906-<b>T</b>,"1 x 10-7",(Japanese),0.7078,'-,"0.0881 unit decrease",[0.055-0.121],"AC137675.2, AC098614.1",Hypertension,hypertension,GCST007707,3:27551369
+rs9907379-<b>T</b>,"5 x 10-13","(East Asian)",0.3334,'-,"0.0872 unit decrease",[0.063-0.111],LINC02875,Hypertension,hypertension,GCST007707,17:61412532
+rs1859168-<b>A</b>,"4 x 10-10",(Japanese),0.3893,'-,"0.0866 unit decrease",[0.059-0.114],HOTTIP,Hypertension,hypertension,GCST007707,7:27202740
+rs12715461-<b>A</b>,"3 x 10-14","(East Asian)",0.5486,'-,"0.0858 unit decrease",[0.064-0.108],CACNA1D,Hypertension,hypertension,GCST007707,3:53544856
+rs62524579-<b>A</b>,"6 x 10-7",(Japanese),0.3776,'-,"0.0841 unit decrease",[0.051-0.117],"CYP11B2, LY6E-DT",Hypertension,hypertension,GCST007707,8:142979538
+rs17030613-<b>A</b>,"1 x 10-10",(Japanese),0.5155,'-,"0.0835 unit decrease",[0.058-0.109],CAPZA1,Hypertension,hypertension,GCST007707,1:112648185
+rs1333047-<b>A</b>,"5 x 10-8",(Japanese),0.3359,'-,"0.0811 unit decrease",[0.052-0.11],CDKN2B-AS1,Hypertension,hypertension,GCST007707,9:22124505
+rs12679242-<b>T</b>,"2 x 10-11","(East Asian)",0.3397,'-,"0.0804 unit decrease",[0.057-0.104],CYP11B2,Hypertension,hypertension,GCST007707,8:142916672
+rs2305013-<b>A</b>,"5 x 10-6","(East Asian)",0.852,'-,"0.0796 unit decrease",[0.045-0.114],ARHGEF12,Hypertension,hypertension,GCST007707,11:120469351
+rs604723-<b>T</b>,"8 x 10-10",(Japanese),0.5467,'-,"0.0795 unit decrease",[0.054-0.105],ARHGAP42,Hypertension,hypertension,GCST007707,11:100739815
+rs6461992-<b>A</b>,"1 x 10-8",(Japanese),0.366,'-,"0.0793 unit decrease",[0.052-0.107],HOXA11,Hypertension,hypertension,GCST007707,7:27181212
+rs62525059-<b>A</b>,"2 x 10-8",(Japanese),0.3638,'-,"0.0787 unit decrease",[0.051-0.106],GML,Hypertension,hypertension,GCST007707,8:142901545
+rs12630213-<b>T</b>,"2 x 10-7",(Japanese),0.505,'-,"0.0767 unit decrease",[0.048-0.106],FGD5,Hypertension,hypertension,GCST007707,3:14912904
+rs16896398-<b>A</b>,"1 x 10-7",(Japanese),0.654,'-,"0.0742 unit decrease",[0.047-0.101],"TTBK1, SLC22A7",Hypertension,hypertension,GCST007707,6:43294966
+rs4722675-<b>A</b>,"5 x 10-10","(East Asian)",0.3866,'-,"0.0735 unit decrease",[0.05-0.097],HOTTIP,Hypertension,hypertension,GCST007707,7:27204343
+rs16849225-<b>T</b>,"2 x 10-7",(Japanese),0.3809,'-,"0.0727 unit decrease",[0.045-0.1],AC016766.1,Hypertension,hypertension,GCST007707,2:164050310
+rs13139571-<b>A</b>,"6 x 10-6",(Japanese),0.2447,'-,"0.0719 unit decrease",[0.041-0.103],GUCY1A1,Hypertension,hypertension,GCST007707,4:155724361
+rs180912-<b>T</b>,"2 x 10-9","(East Asian)",0.5777,'-,"0.071 unit decrease",[0.048-0.094],"NHLRC2, ADRB1",Hypertension,hypertension,GCST007707,10:113982069
+rs661348-<b>T</b>,"7 x 10-8",(Japanese),0.438,'-,"0.0698 unit decrease",[0.044-0.095],LSP1,Hypertension,hypertension,GCST007707,11:1884062
+rs4910498-<b>A</b>,"9 x 10-9","(East Asian)",0.6409,'-,"0.0687 unit decrease",[0.045-0.092],SWAP70,Hypertension,hypertension,GCST007707,11:9743956
+rs17249754-<b>A</b>,"9 x 10-7",(Japanese),0.3732,'-,"0.0681 unit decrease",[0.041-0.095],ATP2B1,Hypertension,hypertension,GCST007707,12:89666809
+rs10948071-<b>T</b>,"1 x 10-6",(Japanese),0.6498,'-,"0.068 unit decrease",[0.041-0.095],ZNF318,Hypertension,hypertension,GCST007707,6:43312975
+rs10069554-<b>T</b>,"2 x 10-8","(East Asian)",0.5951,'-,"0.0666 unit decrease",[0.043-0.09],AC010343.3,Hypertension,hypertension,GCST007707,5:33204354
+rs16849211-<b>T</b>,"2 x 10-6",(Japanese),0.36,'-,"0.0657 unit decrease",[0.038-0.093],AC016766.1,Hypertension,hypertension,GCST007707,2:164043173
+rs6825911-<b>T</b>,"5 x 10-6",(Japanese),0.4718,'-,"0.0633 unit decrease",[0.036-0.091],ENPEP,Hypertension,hypertension,GCST007707,4:110460482
+rs1327235-<b>A</b>,"3 x 10-6",(Japanese),0.5068,'-,"0.0608 unit decrease",[0.036-0.086],AL050403.2,Hypertension,hypertension,GCST007707,20:10988382
+rs12579720-<b>C</b>,"3 x 10-6",(Japanese),0.5058,'-,"0.0606 unit decrease",[0.035-0.086],LINC02398,Hypertension,hypertension,GCST007707,12:20020830
+rs284844-<b>A</b>,"5 x 10-6",(Japanese),0.519,'-,"0.0589 unit decrease",[0.034-0.084],WBP1L,Hypertension,hypertension,GCST007707,10:102794772
+rs6021247-<b>A</b>,"6 x 10-8","(East Asian)",0.5601,'-,"0.0603 unit increase",[0.039-0.082],NFATC2,Hypertension,hypertension,GCST007707,20:51492442
+rs1887320-<b>A</b>,"1 x 10-6",(Japanese),0.485,'-,"0.0625 unit increase",[0.037-0.088],AL050403.2,Hypertension,hypertension,GCST007707,20:10985350
+rs9375459-<b>T</b>,"2 x 10-8","(East Asian)",0.4425,'-,"0.0626 unit increase",[0.041-0.084],AL356534.1,Hypertension,hypertension,GCST007707,6:126826559
+rs1105956-<b>A</b>,"4 x 10-6",(Japanese),0.428,'-,"0.0641 unit increase",[0.037-0.091],AL356534.1,Hypertension,hypertension,GCST007707,6:126825734
+rs217727-<b>A</b>,"4 x 10-6",(Japanese),0.3913,'-,"0.0644 unit increase",[0.037-0.092],H19,Hypertension,hypertension,GCST007707,11:1995678
+rs751984-<b>T</b>,"5 x 10-7",(Japanese),0.4601,'-,"0.0648 unit increase",[0.04-0.09],LRRC10B,Hypertension,hypertension,GCST007707,11:61510774
+rs31864-<b>A</b>,"3 x 10-6",(Japanese),0.3414,'-,"0.0651 unit increase",[0.038-0.092],EBF1,Hypertension,hypertension,GCST007707,5:158793185
+rs11230728-<b>A</b>,"5 x 10-9","(East Asian)",0.4619,'-,"0.0652 unit increase",[0.043-0.087],LRRC10B,Hypertension,hypertension,GCST007707,11:61510226
+rs66978877-<b>T</b>,"5 x 10-9","(East Asian)",0.5458,'-,"0.0661 unit increase",[0.044-0.088],PGPEP1,Hypertension,hypertension,GCST007707,19:18344847
+rs6536088-<b>A</b>,"2 x 10-9","(East Asian)",0.5549,'-,"0.0665 unit increase",[0.045-0.088],"GUCY1B1, AC104083.1",Hypertension,hypertension,GCST007707,4:155745839
+rs2681472-<b>A</b>,"1 x 10-6",(Japanese),0.6231,'-,"0.0668 unit increase",[0.04-0.094],ATP2B1,Hypertension,hypertension,GCST007707,12:89615182
+rs13002573-<b>A</b>,"2 x 10-6",(Japanese),0.6396,'-,"0.0668 unit increase",[0.04-0.094],AC016766.1,Hypertension,hypertension,GCST007707,2:164058698
+rs2681492-<b>T</b>,"1 x 10-6",(Japanese),0.6238,'-,"0.0669 unit increase",[0.04-0.094],ATP2B1,Hypertension,hypertension,GCST007707,12:89619312
+rs12579302-<b>A</b>,"1 x 10-6",(Japanese),0.6261,'-,"0.0671 unit increase",[0.04-0.094],ATP2B1,Hypertension,hypertension,GCST007707,12:89656726
+rs11105364-<b>T</b>,"1 x 10-6",(Japanese),0.6258,'-,"0.0673 unit increase",[0.04-0.095],ATP2B1,Hypertension,hypertension,GCST007707,12:89675499
+rs6590816-<b>A</b>,"8 x 10-7",(Japanese),0.4023,'-,"0.0684 unit increase",[0.041-0.096],ARHGAP42,Hypertension,hypertension,GCST007707,11:100730902
+rs1401982-<b>A</b>,"7 x 10-7",(Japanese),0.6184,'-,"0.0689 unit increase",[0.042-0.096],ATP2B1,Hypertension,hypertension,GCST007707,12:89595822
+rs8098380-<b>A</b>,"7 x 10-7",(Japanese),0.5572,'-,"0.0689 unit increase",[0.042-0.096],"YES1, ENOSF1",Hypertension,hypertension,GCST007707,18:721563
+rs8101673-<b>T</b>,"3 x 10-8","(East Asian)",0.3336,'-,"0.0691 unit increase",[0.045-0.093],MYO9B,Hypertension,hypertension,GCST007707,19:17116525
+rs2240736-<b>T</b>,"6 x 10-7",(Japanese),0.3931,'-,"0.07 unit increase",[0.043-0.097],"TBX2-AS1, TBX2",Hypertension,hypertension,GCST007707,17:61408032
+rs820430-<b>A</b>,"4 x 10-7",(Japanese),0.3614,'-,"0.0702 unit increase",[0.043-0.097],"AC099535.1, RNU1-96P",Hypertension,hypertension,GCST007707,3:27507409
+rs1563788-<b>T</b>,"4 x 10-7",(Japanese),0.348,'-,"0.0705 unit increase",[0.043-0.098],ZNF318,Hypertension,hypertension,GCST007707,6:43340625
+rs13112725-<b>C</b>,"2 x 10-6",(Japanese),0.6421,'-,"0.0707 unit increase",[0.041-0.1],NPNT,Hypertension,hypertension,GCST007707,4:105990585
+rs6712094-<b>A</b>,"3 x 10-7",(Japanese),0.6763,'-,"0.0711 unit increase",[0.044-0.098],AC016766.1,Hypertension,hypertension,GCST007707,2:164186950
+rs6506537-<b>T</b>,"4 x 10-9","(East Asian)",0.6693,'-,"0.0714 unit increase",[0.048-0.095],YES1,Hypertension,hypertension,GCST007707,18:794272
+rs2270860-<b>T</b>,"2 x 10-7",(Japanese),0.3456,'-,"0.0724 unit increase",[0.045-0.1],"SLC22A7, CRIP3",Hypertension,hypertension,GCST007707,6:43302413
+rs7297206-<b>T</b>,"4 x 10-8","(East Asian)",0.762,'-,"0.0746 unit increase",[0.048-0.101],ATP2B1,Hypertension,hypertension,GCST007707,12:89625452
+rs10184428-<b>A</b>,"5 x 10-11","(East Asian)",0.5736,'-,"0.0783 unit increase",[0.055-0.102],AC016766.1,Hypertension,hypertension,GCST007707,2:164155317
+rs6590812-<b>A</b>,"1 x 10-12","(East Asian)",0.4519,'-,"0.0787 unit increase",[0.057-0.1],ARHGAP42,Hypertension,hypertension,GCST007707,11:100711497
+rs633185-<b>C</b>,"5 x 10-10",(Japanese),0.4527,'-,"0.0803 unit increase",[0.055-0.106],ARHGAP42,Hypertension,hypertension,GCST007707,11:100722807
+rs2649044-<b>T</b>,"4 x 10-8",(Japanese),0.3653,'-,"0.0815 unit increase",[0.052-0.111],SWAP70,Hypertension,hypertension,GCST007707,11:9742422
+rs1004467-<b>A</b>,"5 x 10-9",(Japanese),0.6765,'-,"0.0816 unit increase",[0.054-0.109],CYP17A1,Hypertension,hypertension,GCST007707,10:102834750
+rs6969780-<b>C</b>,"5 x 10-6",(Japanese),0.1578,'-,"0.082 unit increase",[0.047-0.117],"HOXA3, HOXA-AS2",Hypertension,hypertension,GCST007707,7:27119517
+rs2125067-<b>C</b>,"9 x 10-6","(East Asian)",0.1207,'-,"0.0828 unit increase",[0.046-0.119],GDF10,Hypertension,hypertension,GCST007707,10:47304942
+rs6590811-<b>T</b>,"2 x 10-9",(Japanese),0.4467,'-,"0.0831 unit increase",[0.056-0.11],ARHGAP42,Hypertension,hypertension,GCST007707,11:100708153
+rs2067087-<b>C</b>,"1 x 10-9",(Japanese),0.5933,'-,"0.085 unit increase",[0.058-0.112],"HOTTIP, AC004080.16",Hypertension,hypertension,GCST007707,7:27202041
+rs5006548-<b>T</b>,"2 x 10-8","(East Asian)",0.1649,'-,"0.0855 unit increase",[0.056-0.115],FGD4,Hypertension,hypertension,GCST007707,12:32539299
+rs6418-<b>A</b>,"3 x 10-8",(Japanese),0.7077,'-,"0.0871 unit increase",[0.056-0.118],"GML, CYP11B2",Hypertension,hypertension,GCST007707,8:142914947
+rs58244401-<b>A</b>,"3 x 10-13","(East Asian)",0.337,'-,"0.0902 unit increase",[0.066-0.115],FGD5,Hypertension,hypertension,GCST007707,3:14897830
+rs10033366-<b>T</b>,"3 x 10-8","(East Asian)",0.2169,'-,"0.0903 unit increase",[0.059-0.122],ENPEP,Hypertension,hypertension,GCST007707,4:110409934
+rs2643826-<b>T</b>,"3 x 10-11","(East Asian)",0.374,'-,"0.0906 unit increase",[0.064-0.117],"RNU1-96P, AC137675.1",Hypertension,hypertension,GCST007707,3:27521497
+rs4409766-<b>T</b>,"4 x 10-10",(Japanese),0.7171,'-,"0.0934 unit increase",[0.064-0.123],"BORCS7, BORCS7-ASMT",Hypertension,hypertension,GCST007707,10:102856906
+rs35444-<b>A</b>,"4 x 10-10",(Japanese),0.7453,'-,"0.0934 unit increase",[0.064-0.123],"AC078880.1, AC008125.1",Hypertension,hypertension,GCST007707,12:115114632
+rs4684242-<b>C</b>,"2 x 10-11",(Japanese),0.3541,'-,"0.0935 unit increase",[0.066-0.121],FGD5,Hypertension,hypertension,GCST007707,3:14853598
+rs4980389-<b>A</b>,"2 x 10-8",(Japanese),0.7747,'-,"0.0947 unit increase",[0.062-0.128],LSP1,Hypertension,hypertension,GCST007707,11:1871355
+rs12129649-<b>T</b>,"3 x 10-13",(Japanese),0.4079,'-,"0.1011 unit increase",[0.074-0.128],MOV10,Hypertension,hypertension,GCST007707,1:112688881
+rs11191548-<b>T</b>,"1 x 10-12",(Japanese),0.7382,'-,"0.1064 unit increase",[0.077-0.136],CNNM2,Hypertension,hypertension,GCST007707,10:103086421
+rs13149993-<b>A</b>,"3 x 10-15",(Japanese),0.3296,'-,"0.1098 unit increase",[0.083-0.137],"FGF5, PRDM8",Hypertension,hypertension,GCST007707,4:80237391
+rs11191580-<b>T</b>,"2 x 10-13",(Japanese),0.7386,'-,"0.1102 unit increase",[0.081-0.139],NT5C2,Hypertension,hypertension,GCST007707,10:103146454
+rs17514846-<b>A</b>,"3 x 10-9",(Japanese),0.1441,'-,"0.1125 unit increase",[0.075-0.15],FURIN,Hypertension,hypertension,GCST007707,15:90873320
+rs11191593-<b>T</b>,"6 x 10-13",(Japanese),0.7392,'-,"0.1142 unit increase",[0.083-0.145],NT5C2,Hypertension,hypertension,GCST007707,10:103179458
+rs72806698-<b>T</b>,"5 x 10-6",(Japanese),0.0665,'-,"0.1232 unit increase",[0.07-0.176],EML6,Hypertension,hypertension,GCST007707,2:54742242
+rs3790604-<b>A</b>,"9 x 10-23","(East Asian)",0.2976,'-,"0.1255 unit increase",[0.1-0.15],WNT2B,Hypertension,hypertension,GCST007707,1:112504257
+rs1458038-<b>T</b>,"2 x 10-20",(Japanese),0.3374,'-,"0.1288 unit increase",[0.1-0.16],"FGF5, PRDM8",Hypertension,hypertension,GCST007707,4:80243569
+rs10776752-<b>T</b>,"3 x 10-18",(Japanese),0.2989,'-,"0.1295 unit increase",[0.1-0.16],WNT2B,Hypertension,hypertension,GCST007707,1:112501706
+rs35021474-<b>C</b>,"2 x 10-13",(Japanese),0.799,'-,"0.131 unit increase",[0.096-0.166],KCNK3,Hypertension,hypertension,GCST007707,2:26693976
+rs11099098-<b>T</b>,"2 x 10-21",(Japanese),0.3389,'-,"0.132 unit increase",[0.1-0.16],"FGF5, PRDM8",Hypertension,hypertension,GCST007707,4:80248758
+rs9814480-<b>T</b>,"2 x 10-13",(Japanese),0.1239,'-,"0.1465 unit increase",[0.11-0.19],CACNA1D,Hypertension,hypertension,GCST007707,3:53556438
+rs139293840-<b>A</b>,"8 x 10-9",(Japanese),0.0144,'-,"0.3548 unit increase",[0.23-0.48],RPTOR,Hypertension,hypertension,GCST007707,17:80556559
+rs28403420-<b>A</b>,"4 x 10-7",,NR,2.2,'-,[1.62-2.98],MICALL2,"Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension, hypertension",GCST009103,7:1444262
+rs150038731-<b>A</b>,"2 x 10-6",,NR,1.43,'-,[1.23-1.65],"AP003390.1, AP001994.1","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension, hypertension",GCST009103,11:119744001
+rs1908127-<b>A</b>,"2 x 10-6",,NR,1.28,'-,[1.15-1.41],"AC108052.1, AC105252.1","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension, hypertension",GCST009103,4:133412285
+rs79787332-<b>T</b>,"2 x 10-6",,NR,1.56,'-,[1.29-1.87],"AC004866.2, EIF4EP4","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension, hypertension",GCST009103,7:81437154
+rs12046278-<b>C</b>,"9 x 10-9",,0.354,1.09,'-,[1.06-1.13],CASZ1,"Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension, hypertension",GCST009101,1:10739520
+rs2820037-<b>T</b>,"8 x 10-7",,0.14,1.54,'-,[1.03-2.31],"CHRM3, AC093426.1",Hypertension,hypertension,GCST000041,1:239273242
+rs2398162-<b>A</b>,"6 x 10-6",,0.74,1.31,'-,[1.03-1.67],"NR2F2-AS1, AC012409.2",Hypertension,hypertension,GCST000041,15:96287321
+rs35529250-<b>T</b>,"8 x 10-7",,0.0068,'-,"4.938 z score decrease",'-,RBM47,Hypertension,hypertension,GCST006023,4:40426074
+rs9349379-<b>A</b>,"5 x 10-6",,0.5966,'-,"4.583 z score increase",'-,PHACTR1,Hypertension,hypertension,GCST006023,6:12903725
+rs4728142-<b>A</b>,"3 x 10-7",,0.4267,'-,"5.155 z score decrease",'-,"AC025594.1, IRF5",Hypertension,hypertension,GCST006023,7:128933913
+rs4387287-<b>A</b>,"2 x 10-8",,0.189,'-,"5.583 z score increase",'-,STN1,Hypertension,hypertension,GCST006023,10:103918139
+rs11229457-<b>T</b>,"6 x 10-8",,0.2272,'-,"5.432 z score decrease",'-,OR5B12,Hypertension,hypertension,GCST006023,11:58439730
+rs7302981-<b>A</b>,"7 x 10-10",,0.3502,'-,"6.17 z score increase",'-,"CERS5, AC074032.1",Hypertension,hypertension,GCST006023,12:50144032
+rs1126464-<b>C</b>,"3 x 10-7",,0.2378,'-,"5.129 z score increase",'-,DPEP1,Hypertension,hypertension,GCST006023,16:89637957
+rs7406910-<b>T</b>,"1 x 10-6",,0.1026,'-,"4.814 z score decrease",'-,HOXB7,Hypertension,hypertension,GCST006023,17:48610894
+rs8068318-<b>T</b>,"3 x 10-12",,0.6823,'-,"6.959 z score increase",'-,"TBX2-AS1, TBX2",Hypertension,hypertension,GCST006023,17:61406405
+rs167479-<b>T</b>,"3 x 10-15",,0.4727,'-,"7.876 z score decrease",'-,RGL3,Hypertension,hypertension,GCST006023,19:11416089
+rs13333226-<b>A</b>,"6 x 10-8",(EA),0.8083,'-,"5.422 z score increase",'-,UMOD,Hypertension,hypertension,GCST006023,16:20354332
+rs2972146-<b>T</b>,"2 x 10-7",,0.6548,'-,"5.224 z score increase",'-,"MIR5702, AC062015.1",Hypertension,hypertension,GCST006023,2:226235982
+rs1799945-<b>G</b>,"2 x 10-10",,0.14,'-,"0.095 unit increase",[NR],HFE,Hypertension,hypertension,GCST001238,6:26090951
+rs1173771-<b>G</b>,"3 x 10-10",,0.60,'-,"0.062 unit increase",[NR],"AC025459.1, NPR3",Hypertension,hypertension,GCST001238,5:32814922
+rs932764-<b>G</b>,"9 x 10-9",,0.44,'-,"0.055 unit increase",[NR],PLCE1,Hypertension,hypertension,GCST001238,10:94136183
+rs4373814-<b>G</b>,"9 x 10-8",,0.55,'-,"0.046 unit decrease",[NR],"SLC39A12, CACNB2",Hypertension,hypertension,GCST001238,10:18131043
+rs11953630-<b>T</b>,"2 x 10-7",,0.37,'-,"0.052 unit decrease",[NR],"AC091979.1, LINC02227",Hypertension,hypertension,GCST001238,5:158418394
+rs2932538-<b>G</b>,"3 x 10-7",,0.75,'-,"0.049 unit increase",[NR],MOV10,Hypertension,hypertension,GCST001238,1:112673921
+rs805303-<b>G</b>,"1 x 10-10",,0.61,'-,"0.054 unit increase",[NR],BAG6,Hypertension,hypertension,GCST001238,6:31648589
+rs13107325-<b>T</b>,"5 x 10-7",,0.05,'-,"0.105 unit decrease",[NR],SLC39A8,Hypertension,hypertension,GCST001238,4:102267552
+rs2521501-<b>T</b>,"7 x 10-7",,0.31,'-,"0.059 unit increase",[NR],FES,Hypertension,hypertension,GCST001238,15:90894158
+rs6015450-<b>G</b>,"4 x 10-14",,0.12,'-,"0.11 unit increase",[NR],ZNF831,Hypertension,hypertension,GCST001238,20:59176062
+rs633185-<b>G</b>,"5 x 10-11",,0.28,'-,"0.07 unit decrease",[NR],ARHGAP42,Hypertension,hypertension,GCST001238,11:100722807
+rs897876-<b>T</b>,"2 x 10-7","(Nighttime PP)",0.406,'-,"1.036 unit increase",[0.45-1.62],AC007389.1,"Pulse pressure in young-onset hypertension","pulse pressure measurement, early onset hypertension",GCST002470,2:65564447
+"rs10495809-<b>?</b>, rs9308945-<b>?</b>, rs6729869-<b>?</b>, rs6711736-<b>?</b>","3 x 10-10",,NR,'-,'-,'-,"LINC01320; LINC01320; LINC01320; LINC01320","Hypertension (young onset)","early onset hypertension",GCST000390,2:34080190|2:34059785|2:34060127|2:34059917
+rs2217560-<b>G</b>,"7 x 10-10",,0.069,1.97,'-,[1.59-2.45],"AC069114.1, CBLN2","Pulmonary arterial hypertension (without BMPR2 mutations)","pulmonary arterial hypertension",GCST001908,18:72483704
+rs13144136-<b>?</b>,"1 x 10-6",,0.34,1.47,'-,[1.25-1.72],CLNK,"Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,4:10665285
+rs7016717-<b>G</b>,"7 x 10-6",,0.89,1.77,'-,1.38-2.27,"AC084706.1, AC062004.1","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,8:77718131
+rs12752401-<b>?</b>,"8 x 10-6",,0.07,2,'-,[1.47-2.78],"AC114485.1, AC099567.1","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,1:102501594
+rs6750839-<b>?</b>,"8 x 10-6",,0.08,2.33,'-,[1.56-3.45],"SEPHS1P7, AC010982.2","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,2:114183592
+rs73007615-<b>?</b>,"3 x 10-6",,0.16,1.61,'-,[1.32-1.96],"RN7SKP93, AC092623.1","Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,2:133753378
+rs13144136-<b>?</b>,"7 x 10-6",EA,0.30,1.52,'-,[1.27-1.85],CLNK,"Resistance to antihypertensive treatment in hypertension","treatment-resistant hypertension",GCST004163,4:10665285
+rs12046278-<b>?</b>,"2 x 10-9",,NR,1.4084507,'-,[1.25-1.59],CASZ1,"Resistant hypertension","treatment-resistant hypertension",GCST009098,1:10739520
+rs11674660-<b>?</b>,"5 x 10-8",,NR,1.54,'-,[1.31-1.79],"ARNILA, DNMT3A","Resistant hypertension","treatment-resistant hypertension",GCST009098,2:25345846
+rs9373768-<b>?</b>,"1 x 10-7",,NR,1.48,'-,[1.29-1.70],AL357522.1,"Resistant hypertension","treatment-resistant hypertension",GCST009098,6:104488097
+rs12046278-<b>C</b>,"1 x 10-8",,0.63,1.4084507,'-,[1.25-1.59],CASZ1,"Resistant hypertension","treatment-resistant hypertension",GCST009102,1:10739520
+rs11674660-<b>T</b>,"8 x 10-8",,0.15,1.53,'-,[1.31-1.80],"ARNILA, DNMT3A","Resistant hypertension","treatment-resistant hypertension",GCST009102,2:25345846
+rs76967376-<b>A</b>,"6 x 10-8",,0.11,2.65,'-,[1.87-3.78],MYO5B,"Resistant hypertension","treatment-resistant hypertension",GCST009100,18:50111242
+rs185169399-<b>A</b>,"5 x 10-7",,0.94,11.96,'-,[4.53-31.55],LINC02241,"Resistant hypertension","treatment-resistant hypertension",GCST009100,5:20748963
+rs12665245-<b>C</b>,"1 x 10-6",,0.14,2.7777777,'-,[1.85-4.17],ENPP3,"Resistant hypertension","treatment-resistant hypertension",GCST009100,6:131653843
+rs143255889-<b>C</b>,"2 x 10-6",,0.07,3.1,'-,[1.95-4.92],"LINC02647, AL358787.1","Resistant hypertension","treatment-resistant hypertension",GCST009100,10:85230610
+rs11617740-<b>?</b>,"7 x 10-7",(Afro-Caribbean),NR,16.69,'-,[5.53-51.97],FGF14,Preeclampsia,preeclampsia,GCST001949,13:102027776
+rs2839440-<b>?</b>,"1 x 10-6",(Afro-Caribbean),NR,5.31,'-,[2.70-10.42],ZNF295-AS1,Preeclampsia,preeclampsia,GCST001949,21:42023389
+rs12641856-<b>?</b>,"2 x 10-6",(Afro-Caribbean),NR,15.19,'-,[4.98-46.35],AC084741.1,Preeclampsia,preeclampsia,GCST001949,4:181688712
+rs4815879-<b>?</b>,"2 x 10-6",(Afro-Caribbean),NR,14.57,'-,[4.81-44.17],"MCM8, AL035461.4",Preeclampsia,preeclampsia,GCST001949,20:5968888
+rs28360974-<b>?</b>,"3 x 10-6",(Afro-Caribbean),NR,10.13,'-,[3.85-26.67],"MUC22, MUC21",Preeclampsia,preeclampsia,GCST001949,6:31008442
+rs1248993-<b>?</b>,"6 x 10-6",(Afro-Caribbean),NR,4.27,'-,[2.28-8.01],"LINC01517, BAMBI",Preeclampsia,preeclampsia,GCST001949,10:28738294
+rs975369-<b>?</b>,"8 x 10-6",(Afro-Caribbean),NR,4.55,'-,[2.34-8.83],"AC091705.1, AC005165.1",Preeclampsia,preeclampsia,GCST001949,7:25573041
+rs1556832-<b>?</b>,"9 x 10-6",(Afro-Caribbean),NR,4.33,'-,[2.27-8.27],ADRA1D,Preeclampsia,preeclampsia,GCST001949,20:4234910
+rs11600901-<b>?</b>,"9 x 10-6",(Afro-Caribbean),NR,9.83,'-,[3.58-27.00],AP002800.2,Preeclampsia,preeclampsia,GCST001949,11:118161271
+rs7322722-<b>?</b>,"1 x 10-6",(EA),NR,2.93,'-,[1.90-4.52],MYCBP2,Preeclampsia,preeclampsia,GCST001949,13:77305241
+rs10989019-<b>?</b>,"2 x 10-6",(EA),NR,3.21,'-,[1.98-5.20],INVS,Preeclampsia,preeclampsia,GCST001949,9:100214259
+rs10883969-<b>?</b>,"3 x 10-6",(EA),NR,2.97,'-,[1.88-4.69],SFR1,Preeclampsia,preeclampsia,GCST001949,10:104124358
+rs7028939-<b>?</b>,"3 x 10-6",(EA),NR,3.17,'-,[1.95-5.15],ERP44,Preeclampsia,preeclampsia,GCST001949,9:100046403
+rs17787940-<b>?</b>,"3 x 10-6",(EA),NR,3.17,'-,[1.95-5.16],WWTR1,Preeclampsia,preeclampsia,GCST001949,3:149532802
+rs9976946-<b>?</b>,"5 x 10-6",(EA),NR,5.5,'-,[2.65-11.39],RUNX1,Preeclampsia,preeclampsia,GCST001949,21:34835765
+rs6563695-<b>?</b>,"5 x 10-6",(EA),NR,3.65,'-,[2.09-6.36],LHFPL6,Preeclampsia,preeclampsia,GCST001949,13:39329106
+rs17412740-<b>?</b>,"2 x 10-6",(Hispanic),NR,6.08,'-,[2.88-12.81],"AC022559.1, AC023403.1",Preeclampsia,preeclampsia,GCST001949,8:20389247
+rs17636747-<b>?</b>,"4 x 10-6",(Hispanic),NR,8.35,'-,[3.41-20.46],"AC012360.2, TGFBRAP1",Preeclampsia,preeclampsia,GCST001949,2:105261413
+rs2226284-<b>?</b>,"3 x 10-8",SNP+sleep,NR,5.91,'-,[3.15-11.11],LRRC7,"Hypertension risk in short sleep duration","hypertension, short sleep",GCST001405,1:69869999
+rs225212-<b>?</b>,"5 x 10-6",SNP+sleep,NR,5.08,'-,[2.52-10.23],MYO1D,"Hypertension risk in short sleep duration","hypertension, short sleep",GCST001405,17:32569437
+rs660899-<b>?</b>,"4 x 10-6",SNP+sleep,NR,7.22,'-,[3.12-16.70],"KDM4A, AL451062.4","Hypertension risk in short sleep duration","hypertension, short sleep",GCST001405,1:43651335
+rs6978712-<b>A</b>,"5 x 10-7",,0.175,2.02,'-,[1.53-2.68],"GCC1, AC000124.1","Medication adherence in chronic diseases","diabetes mellitus, hypertension, medication adherence behavior",GCST002637,7:127507709
+rs7690819-<b>G</b>,"1 x 10-6",,0.521,1.63,'-,[1.34-2.00],"RNU6-289P, AC004062.1","Medication adherence in chronic diseases","diabetes mellitus, hypertension, medication adherence behavior",GCST002637,4:111199502
+rs9810888-<b>G</b>,"4 x 10-6",,0.39,'-,'-,'-,CACNA1D,Hypertension,hypertension,GCST002627,3:53601568
+rs2021783-<b>C</b>,"4 x 10-11",,0.79,'-,'-,'-,TNXB,Hypertension,hypertension,GCST002627,6:32077074
+rs11067763-<b>A</b>,"1 x 10-7",,0.62,'-,'-,'-,AC009387.1,Hypertension,hypertension,GCST002627,12:115760536
+rs820430-<b>A</b>,"1 x 10-6",,0.32,'-,'-,'-,"AC099535.1, RNU1-96P",Hypertension,hypertension,GCST002627,3:27507409
+rs880315-<b>C</b>,"2 x 10-9",,0.63,'-,'-,'-,CASZ1,Hypertension,hypertension,GCST002627,1:10736809
+rs10745332-<b>A</b>,"3 x 10-9",,0.82,'-,'-,'-,CAPZA1,Hypertension,hypertension,GCST002627,1:112646431
+rs1902859-<b>C</b>,"8 x 10-18",,0.41,'-,'-,'-,"FGF5, PRDM8",Hypertension,hypertension,GCST002627,4:80236549
+rs13143871-<b>T</b>,"1 x 10-6",,0.8,'-,'-,'-,GUCY1A1,Hypertension,hypertension,GCST002627,4:155698052
+rs4409766-<b>T</b>,"7 x 10-13",,0.71,'-,'-,'-,"BORCS7, BORCS7-ASMT",Hypertension,hypertension,GCST002627,10:102856906
+rs4757391-<b>C</b>,"3 x 10-6",,0.28,'-,'-,'-,SOX6,Hypertension,hypertension,GCST002627,11:16281393
+rs17249754-<b>G</b>,"2 x 10-8",,0.64,'-,'-,'-,ATP2B1,Hypertension,hypertension,GCST002627,12:89666809
+rs11066280-<b>T</b>,"6 x 10-8",,0.81,'-,'-,'-,HECTD4,Hypertension,hypertension,GCST002627,12:112379979
