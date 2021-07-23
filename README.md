@@ -4,6 +4,69 @@ In this project, my main goal is to predict disease risks through machine learni
 
 ## Usage Instructions 
 
-To run the program that predicts disease risk using 23andMe data, please run `main.py -f your23andmerawdata.txt`. If you don't have your own 23andMe raw data, feel free to use  `example1.txt` or `example2.txt`. 
+To run the program that predicts disease risk using 23andMe data, please run `main.py -f your23andmerawdata.txt`. If you don't have your own 23andMe raw data, feel free to use  `example1.txt` or `example2.txt`. See requirements.txt for the list of python packages required to run the project. 
+
+## Description of Contents
+
+The project consists of these portions:
+```
+PROJECT
+├── 23andme
+│   ├── data
+│   └── 23andme experiment.ipynb
+│   └──alzheimer
+│   └──arthritis
+│   └──diabetes
+│   └──heart
+│   └──hypertension
+├── models
+│   ├── alzheimer
+│   └──arthritis
+│   └──diabetes
+│   └──heart
+│   └──hypertension
+├── README.md
+├── requirements.txt
+└── main.py
+└── example1.txt
+└── example2.txt
+```
+
+### `root`
+
+* `main.py`: Python script to run the program that takes 23andme raw user data as input.
+
+* `example1.txt`: Sample 23andme user raw data
+
+* `example2.txt`: Sample 23andme user raw data
+
+### `23andme`
+This directory contains notebooks and data used for creating models that can be used for 23andme raw user data. 
+
+* `data`: Folder that contains the dataset from GWAS catalog as well as processed dataset.
+
+* `23andme experiment.ipynb`: The notebook experiment to figure out how to create dataset used for training the models that can be compatible with 23andme data.
+
+* `alzheimer`: Contains notebook for processing data and training model as well as the saved models.
+
+* `arthritis`: Contains notebook for processing data and training model as well as the saved models.
+
+* `diabetes`: Contains notebook for processing data and training model as well as the saved models.
+
+* `heart`: Contains notebook for processing data and training model as well as the saved models.
+
+* `hypertension`: Contains notebook for processing data and training model as well as the saved models.
+
+### `models`
+This directory contains notebooks and data used to train models that perform disease risk prediction (not compatible with 23andme raw user data. 
+* `alzheimer`: Contains notebook for processing data and training model as well as the saved models.
+
+* `arthritis`: Contains notebook for processing data and training model as well as the saved models.
+
+* `diabetes`: Contains notebook for processing data and training model as well as the saved models.
+
+* `heart`: Contains notebook for processing data and training model as well as the saved models.
+
+* `hypertension`: Contains notebook for processing data and training model as well as the saved models.
 
 
